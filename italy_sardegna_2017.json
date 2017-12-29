@@ -1,0 +1,785 @@
+[
+	{
+		"istat_old": "92002",
+		"istat_new": "111002",
+		"comune": "Armungia"
+	},
+	{
+		"istat_old": "92004",
+		"istat_new": "111003",
+		"comune": "Ballao"
+	},
+	{
+		"istat_old": "92005",
+		"istat_new": "111004",
+		"comune": "Barrali"
+	},
+	{
+		"istat_old": "92008",
+		"istat_new": "111007",
+		"comune": "Burcei"
+	},
+	{
+		"istat_old": "92016",
+		"istat_new": "111013",
+		"comune": "Decimoputzu"
+	},
+	{
+		"istat_old": "92017",
+		"istat_new": "111014",
+		"comune": "Dolianova"
+	},
+	{
+		"istat_old": "92018",
+		"istat_new": "111015",
+		"comune": "Domus de Maria"
+	},
+	{
+		"istat_old": "92020",
+		"istat_new": "111017",
+		"comune": "Donori"
+	},
+	{
+		"istat_old": "92024",
+		"istat_new": "111026",
+		"comune": "Gesico"
+	},
+	{
+		"istat_old": "92027",
+		"istat_new": "111029",
+		"comune": "Goni"
+	},
+	{
+		"istat_old": "92030",
+		"istat_new": "111032",
+		"comune": "Guamaggiore"
+	},
+	{
+		"istat_old": "92031",
+		"istat_new": "111033",
+		"comune": "Guasila"
+	},
+	{
+		"istat_old": "92036",
+		"istat_new": "111039",
+		"comune": "Mandas"
+	},
+	{
+		"istat_old": "92038",
+		"istat_new": "111041",
+		"comune": "Monastir"
+	},
+	{
+		"istat_old": "92039",
+		"istat_new": "111042",
+		"comune": "Muravera"
+	},
+	{
+		"istat_old": "92042",
+		"istat_new": "111047",
+		"comune": "Nuraminis"
+	},
+	{
+		"istat_old": "92044",
+		"istat_new": "111051",
+		"comune": "Ortacesus"
+	},
+	{
+		"istat_old": "92048",
+		"istat_new": "111055",
+		"comune": "Pimentel"
+	},
+	{
+		"istat_old": "92053",
+		"istat_new": "111060",
+		"comune": "Samatzai"
+	},
+	{
+		"istat_old": "92054",
+		"istat_new": "111061",
+		"comune": "San Basilio"
+	},
+	{
+		"istat_old": "92058",
+		"istat_new": "111064",
+		"comune": "San Nicolò Gerrei"
+	},
+	{
+		"istat_old": "92059",
+		"istat_new": "111065",
+		"comune": "San Sperate"
+	},
+	{
+		"istat_old": "92061",
+		"istat_new": "111069",
+		"comune": "Sant'Andrea Frius"
+	},
+	{
+		"istat_old": "92064",
+		"istat_new": "111066",
+		"comune": "San Vito"
+	},
+	{
+		"istat_old": "92069",
+		"istat_new": "111074",
+		"comune": "Selegas"
+	},
+	{
+		"istat_old": "92070",
+		"istat_new": "111075",
+		"comune": "Senorbì"
+	},
+	{
+		"istat_old": "92071",
+		"istat_new": "111076",
+		"comune": "Serdiana"
+	},
+	{
+		"istat_old": "92078",
+		"istat_new": "111084",
+		"comune": "Siliqua"
+	},
+	{
+		"istat_old": "92079",
+		"istat_new": "111085",
+		"comune": "Silius"
+	},
+	{
+		"istat_old": "92081",
+		"istat_new": "111086",
+		"comune": "Siurgus Donigala"
+	},
+	{
+		"istat_old": "92082",
+		"istat_new": "111087",
+		"comune": "Soleminis"
+	},
+	{
+		"istat_old": "92083",
+		"istat_new": "111088",
+		"comune": "Suelli"
+	},
+	{
+		"istat_old": "92084",
+		"istat_new": "111089",
+		"comune": "Teulada"
+	},
+	{
+		"istat_old": "92088",
+		"istat_new": "111093",
+		"comune": "Ussana"
+	},
+	{
+		"istat_old": "92091",
+		"istat_new": "111095",
+		"comune": "Vallermosa"
+	},
+	{
+		"istat_old": "92097",
+		"istat_new": "111103",
+		"comune": "Villaputzu"
+	},
+	{
+		"istat_old": "92098",
+		"istat_new": "111104",
+		"comune": "Villasalto"
+	},
+	{
+		"istat_old": "92100",
+		"istat_new": "111105",
+		"comune": "Villasimius"
+	},
+	{
+		"istat_old": "92101",
+		"istat_new": "111106",
+		"comune": "Villasor"
+	},
+	{
+		"istat_old": "92102",
+		"istat_new": "111107",
+		"comune": "Villaspeciosa"
+	},
+	{
+		"istat_old": "92106",
+		"istat_new": "111011",
+		"comune": "Castiadas"
+	},
+	{
+		"istat_old": "92110",
+		"istat_new": "111018",
+		"comune": "Escalaplano"
+	},
+	{
+		"istat_old": "92111",
+		"istat_new": "111019",
+		"comune": "Escolca"
+	},
+	{
+		"istat_old": "92112",
+		"istat_new": "111020",
+		"comune": "Esterzili"
+	},
+	{
+		"istat_old": "92113",
+		"istat_new": "111025",
+		"comune": "Gergei"
+	},
+	{
+		"istat_old": "92114",
+		"istat_new": "111036",
+		"comune": "Isili"
+	},
+	{
+		"istat_old": "92115",
+		"istat_new": "111045",
+		"comune": "Nuragus"
+	},
+	{
+		"istat_old": "92116",
+		"istat_new": "111046",
+		"comune": "Nurallao"
+	},
+	{
+		"istat_old": "92117",
+		"istat_new": "111048",
+		"comune": "Nurri"
+	},
+	{
+		"istat_old": "92118",
+		"istat_new": "111050",
+		"comune": "Orroli"
+	},
+	{
+		"istat_old": "92119",
+		"istat_new": "111058",
+		"comune": "Sadali"
+	},
+	{
+		"istat_old": "92120",
+		"istat_new": "111079",
+		"comune": "Serri"
+	},
+	{
+		"istat_old": "92121",
+		"istat_new": "111082",
+		"comune": "Seulo"
+	},
+	{
+		"istat_old": "92122",
+		"istat_new": "111099",
+		"comune": "Villanova Tulo"
+	},
+	{
+		"istat_old": "95081",
+		"istat_new": "111023",
+		"comune": "Genoni"
+	},
+	{
+		"istat_old": "104001",
+		"istat_new": "90001",
+		"comune": "Aggius"
+	},
+	{
+		"istat_old": "104002",
+		"istat_new": "90062",
+		"comune": "Aglientu"
+	},
+	{
+		"istat_old": "104003",
+		"istat_new": "90002",
+		"comune": "Alà dei Sardi"
+	},
+	{
+		"istat_old": "104004",
+		"istat_new": "90006",
+		"comune": "Arzachena"
+	},
+	{
+		"istat_old": "104005",
+		"istat_new": "90081",
+		"comune": "Badesi"
+	},
+	{
+		"istat_old": "104006",
+		"istat_new": "90009",
+		"comune": "Berchidda"
+	},
+	{
+		"istat_old": "104007",
+		"istat_new": "90014",
+		"comune": "Bortigiadas"
+	},
+	{
+		"istat_old": "104008",
+		"istat_new": "90017",
+		"comune": "Buddusò"
+	},
+	{
+		"istat_old": "104009",
+		"istat_new": "90091",
+		"comune": "Budoni"
+	},
+	{
+		"istat_old": "104010",
+		"istat_new": "90021",
+		"comune": "Calangianus"
+	},
+	{
+		"istat_old": "104011",
+		"istat_new": "90083",
+		"comune": "Golfo Aranci"
+	},
+	{
+		"istat_old": "104012",
+		"istat_new": "90035",
+		"comune": "La Maddalena"
+	},
+	{
+		"istat_old": "104013",
+		"istat_new": "90084",
+		"comune": "Loiri Porto San Paolo"
+	},
+	{
+		"istat_old": "104014",
+		"istat_new": "90036",
+		"comune": "Luogosanto"
+	},
+	{
+		"istat_old": "104015",
+		"istat_new": "90037",
+		"comune": "Luras"
+	},
+	{
+		"istat_old": "104016",
+		"istat_new": "90041",
+		"comune": "Monti"
+	},
+	{
+		"istat_old": "104017",
+		"istat_new": "90047",
+		"comune": "Olbia"
+	},
+	{
+		"istat_old": "104018",
+		"istat_new": "90049",
+		"comune": "Oschiri"
+	},
+	{
+		"istat_old": "104019",
+		"istat_new": "90090",
+		"comune": "Padru"
+	},
+	{
+		"istat_old": "104020",
+		"istat_new": "90054",
+		"comune": "Palau"
+	},
+	{
+		"istat_old": "104021",
+		"istat_new": "90085",
+		"comune": "Sant'Antonio di Gallura"
+	},
+	{
+		"istat_old": "104022",
+		"istat_new": "90063",
+		"comune": "Santa Teresa Gallura"
+	},
+	{
+		"istat_old": "104023",
+		"istat_new": "90092",
+		"comune": "San Teodoro"
+	},
+	{
+		"istat_old": "104024",
+		"istat_new": "90080",
+		"comune": "Telti"
+	},
+	{
+		"istat_old": "104025",
+		"istat_new": "90070",
+		"comune": "Tempio Pausania"
+	},
+	{
+		"istat_old": "104026",
+		"istat_new": "90074",
+		"comune": "Trinità d'Agultu e Vignola"
+	},
+	{
+		"istat_old": "105001",
+		"istat_new": "91002",
+		"comune": "Arzana"
+	},
+	{
+		"istat_old": "105002",
+		"istat_new": "91005",
+		"comune": "Bari Sardo"
+	},
+	{
+		"istat_old": "105003",
+		"istat_new": "91006",
+		"comune": "Baunei"
+	},
+	{
+		"istat_old": "105004",
+		"istat_new": "91103",
+		"comune": "Cardedu"
+	},
+	{
+		"istat_old": "105005",
+		"istat_new": "91019",
+		"comune": "Elini"
+	},
+	{
+		"istat_old": "105006",
+		"istat_new": "91026",
+		"comune": "Gairo"
+	},
+	{
+		"istat_old": "105007",
+		"istat_new": "91031",
+		"comune": "Girasole"
+	},
+	{
+		"istat_old": "105008",
+		"istat_new": "91032",
+		"comune": "Ilbono"
+	},
+	{
+		"istat_old": "105009",
+		"istat_new": "91035",
+		"comune": "Jerzu"
+	},
+	{
+		"istat_old": "105010",
+		"istat_new": "91037",
+		"comune": "Lanusei"
+	},
+	{
+		"istat_old": "105011",
+		"istat_new": "91039",
+		"comune": "Loceri"
+	},
+	{
+		"istat_old": "105012",
+		"istat_new": "91042",
+		"comune": "Lotzorai"
+	},
+	{
+		"istat_old": "105013",
+		"istat_new": "91069",
+		"comune": "Osini"
+	},
+	{
+		"istat_old": "105014",
+		"istat_new": "91072",
+		"comune": "Perdasdefogu"
+	},
+	{
+		"istat_old": "105015",
+		"istat_new": "111081",
+		"comune": "Seui"
+	},
+	{
+		"istat_old": "105016",
+		"istat_new": "91088",
+		"comune": "Talana"
+	},
+	{
+		"istat_old": "105017",
+		"istat_new": "91089",
+		"comune": "Tertenia"
+	},
+	{
+		"istat_old": "105018",
+		"istat_new": "91095",
+		"comune": "Tortolì"
+	},
+	{
+		"istat_old": "105019",
+		"istat_new": "91097",
+		"comune": "Triei"
+	},
+	{
+		"istat_old": "105020",
+		"istat_new": "91098",
+		"comune": "Ulassai"
+	},
+	{
+		"istat_old": "105021",
+		"istat_new": "91099",
+		"comune": "Urzulei"
+	},
+	{
+		"istat_old": "105022",
+		"istat_new": "91100",
+		"comune": "Ussassai"
+	},
+	{
+		"istat_old": "105023",
+		"istat_new": "91101",
+		"comune": "Villagrande Strisaili"
+	},
+	{
+		"istat_old": "106001",
+		"istat_new": "111001",
+		"comune": "Arbus"
+	},
+	{
+		"istat_old": "106002",
+		"istat_new": "111005",
+		"comune": "Barumini"
+	},
+	{
+		"istat_old": "106003",
+		"istat_new": "111012",
+		"comune": "Collinas"
+	},
+	{
+		"istat_old": "106004",
+		"istat_new": "111022",
+		"comune": "Furtei"
+	},
+	{
+		"istat_old": "106005",
+		"istat_new": "111024",
+		"comune": "Genuri"
+	},
+	{
+		"istat_old": "106006",
+		"istat_new": "111027",
+		"comune": "Gesturi"
+	},
+	{
+		"istat_old": "106007",
+		"istat_new": "111031",
+		"comune": "Gonnosfanadiga"
+	},
+	{
+		"istat_old": "106008",
+		"istat_new": "111034",
+		"comune": "Guspini"
+	},
+	{
+		"istat_old": "106009",
+		"istat_new": "111037",
+		"comune": "Las Plassas"
+	},
+	{
+		"istat_old": "106010",
+		"istat_new": "111038",
+		"comune": "Lunamatrona"
+	},
+	{
+		"istat_old": "106011",
+		"istat_new": "111052",
+		"comune": "Pabillonis"
+	},
+	{
+		"istat_old": "106012",
+		"istat_new": "111053",
+		"comune": "Pauli Arbarei"
+	},
+	{
+		"istat_old": "106013",
+		"istat_new": "111059",
+		"comune": "Samassi"
+	},
+	{
+		"istat_old": "106014",
+		"istat_new": "111062",
+		"comune": "San Gavino Monreale"
+	},
+	{
+		"istat_old": "106015",
+		"istat_new": "111067",
+		"comune": "Sanluri"
+	},
+	{
+		"istat_old": "106016",
+		"istat_new": "111072",
+		"comune": "Sardara"
+	},
+	{
+		"istat_old": "106017",
+		"istat_new": "111073",
+		"comune": "Segariu"
+	},
+	{
+		"istat_old": "106018",
+		"istat_new": "111077",
+		"comune": "Serramanna"
+	},
+	{
+		"istat_old": "106019",
+		"istat_new": "111078",
+		"comune": "Serrenti"
+	},
+	{
+		"istat_old": "106020",
+		"istat_new": "111080",
+		"comune": "Setzu"
+	},
+	{
+		"istat_old": "106021",
+		"istat_new": "111083",
+		"comune": "Siddi"
+	},
+	{
+		"istat_old": "106022",
+		"istat_new": "111091",
+		"comune": "Tuili"
+	},
+	{
+		"istat_old": "106023",
+		"istat_new": "111092",
+		"comune": "Turri"
+	},
+	{
+		"istat_old": "106024",
+		"istat_new": "111094",
+		"comune": "Ussaramanna"
+	},
+	{
+		"istat_old": "106025",
+		"istat_new": "111096",
+		"comune": "Villacidro"
+	},
+	{
+		"istat_old": "106026",
+		"istat_new": "111097",
+		"comune": "Villamar"
+	},
+	{
+		"istat_old": "106027",
+		"istat_new": "111100",
+		"comune": "Villanovaforru"
+	},
+	{
+		"istat_old": "106028",
+		"istat_new": "111101",
+		"comune": "Villanovafranca"
+	},
+	{
+		"istat_old": "107001",
+		"istat_new": "111006",
+		"comune": "Buggerru"
+	},
+	{
+		"istat_old": "107002",
+		"istat_new": "111008",
+		"comune": "Calasetta"
+	},
+	{
+		"istat_old": "107003",
+		"istat_new": "111009",
+		"comune": "Carbonia"
+	},
+	{
+		"istat_old": "107004",
+		"istat_new": "111010",
+		"comune": "Carloforte"
+	},
+	{
+		"istat_old": "107005",
+		"istat_new": "111016",
+		"comune": "Domusnovas"
+	},
+	{
+		"istat_old": "107006",
+		"istat_new": "111021",
+		"comune": "Fluminimaggiore"
+	},
+	{
+		"istat_old": "107007",
+		"istat_new": "111028",
+		"comune": "Giba"
+	},
+	{
+		"istat_old": "107008",
+		"istat_new": "111030",
+		"comune": "Gonnesa"
+	},
+	{
+		"istat_old": "107009",
+		"istat_new": "111035",
+		"comune": "Iglesias"
+	},
+	{
+		"istat_old": "107010",
+		"istat_new": "111040",
+		"comune": "Masainas"
+	},
+	{
+		"istat_old": "107011",
+		"istat_new": "111043",
+		"comune": "Musei"
+	},
+	{
+		"istat_old": "107012",
+		"istat_new": "111044",
+		"comune": "Narcao"
+	},
+	{
+		"istat_old": "107013",
+		"istat_new": "111049",
+		"comune": "Nuxis"
+	},
+	{
+		"istat_old": "107014",
+		"istat_new": "111054",
+		"comune": "Perdaxius"
+	},
+	{
+		"istat_old": "107015",
+		"istat_new": "111056",
+		"comune": "Piscinas"
+	},
+	{
+		"istat_old": "107016",
+		"istat_new": "111057",
+		"comune": "Portoscuso"
+	},
+	{
+		"istat_old": "107017",
+		"istat_new": "111063",
+		"comune": "San Giovanni Suergiu"
+	},
+	{
+		"istat_old": "107018",
+		"istat_new": "111068",
+		"comune": "Santadi"
+	},
+	{
+		"istat_old": "107019",
+		"istat_new": "111070",
+		"comune": "Sant'Anna Arresi"
+	},
+	{
+		"istat_old": "107020",
+		"istat_new": "111071",
+		"comune": "Sant'Antioco"
+	},
+	{
+		"istat_old": "107021",
+		"istat_new": "111090",
+		"comune": "Tratalias"
+	},
+	{
+		"istat_old": "107022",
+		"istat_new": "111098",
+		"comune": "Villamassargia"
+	},
+	{
+		"istat_old": "107023",
+		"istat_new": "111102",
+		"comune": "Villaperuccio"
+	},
+	{
+		"istat_old": "Total",
+		"istat_new": "",
+		"comune": "155"
+	},
+	{
+		"istat_old": ""
+	}
+]
