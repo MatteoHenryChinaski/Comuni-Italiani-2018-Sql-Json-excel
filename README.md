@@ -81,6 +81,11 @@ Si precisa che alcuni dati (esempio numero di abitanti, patroni o coordinate geo
 - cod. istat 
 - cap
 
+## La tabella dei CAP italiani viene fornita al resto del database ed è basata su dati di partenza reperiti pubblicamente nel 2006 e viene fornita "as is".
+Per utilizzarla nei vari formati i consigli sono i seguenti:
+- MYSQL: Eseguire una query di JOINT tra la tabella "italy_cap" e la tabella "italy_cities" avenete come id di riferimento il codice ISTAT (presente in entrambe le tabelle)
+- EXCEL: Eseguire un semplice copia/incolla delle colonne della tabella "italy_cap" nella posizione desiderata della tabella "italy_cities" (o la tabella desiderata) avendo cura di verificare che entrambe siano ordinate per la prima colonna (il codice ISTAT)
+- JSON: Eseguire l'integrazione tra i dati della tabella "italy_cap" e "italy_cities" attraverso codice lato client, attarverso un collegamento con il codice ISTAT
 
 ## HISTORY VERSIONI
 - Ver 4.6 [11 novembre 2017]: Fornita tabella CAP
