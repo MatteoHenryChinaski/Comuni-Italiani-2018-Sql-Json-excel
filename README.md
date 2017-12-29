@@ -1,4 +1,4 @@
-# Comuni-Italiani-2017-Sql-Json-excel
+# Comuni-Italiani-2017-Sql-Json-Excel
 
 STRUTTURA DEL DATABASE 
 Tutte le tabelle sono corredate di identificativo univoco della riga in modo da poter eseguire query, view, stored procedures e richieste incrociate. 
