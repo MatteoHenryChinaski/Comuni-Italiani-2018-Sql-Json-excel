@@ -6,9 +6,10 @@ Nello specifico vengono fornite le colonne riportate qui sotto, per ogni tabella
 Si precisa che alcuni dati (esempio numero di abitanti, patroni o coordinate geografiche) potrebbero non essere presenti o non essere aggiornati.  
 
 ## TABELLA DELLE REGIONI ITALIANE 
-id regione nome regione superficie (in mq) 
-numero di residenti (valore Istat non sempre aggiornato) 
-numero di comuni numero di province presidente codice istat regione codice fiscale piva pec sito web indirizzo sede 
+- id regione - nome regione - superficie (in mq) 
+- numero di residenti (valore Istat non sempre aggiornato) 
+- numero di comuni - numero di province - presidente - codice istat regione - codice fiscale 
+- piva - pec - sito web - indirizzo sede 
 
 ## TABELLA DELLE PROVINCE ITALIANE 
 id regione nome provincia sigla superficie (in mq) numero di residenti (valore Istat non sempre aggiornato) 
