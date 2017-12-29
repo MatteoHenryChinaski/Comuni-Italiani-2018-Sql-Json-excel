@@ -1,6 +1,6 @@
 # Comuni-Italiani-2017-Sql-Json-Excel
 
-## [STRUTTURA DEL DATABASE][code-of-conduct]
+## [STRUTTURA DEL DATABASE](https://github.com/MatteoHenryChinaski/Comuni-Italiani-2017-Sql-Json-excel/blob/master/create-database-comuni-italiani.sql)
 Tutte le tabelle sono corredate di identificativo univoco della riga in modo da poter eseguire query, view, stored procedures e richieste incrociate. 
 Nello specifico vengono fornite le colonne riportate qui sotto, per ogni tabella/foglio.  
 Si precisa che alcuni dati (esempio numero di abitanti, patroni o coordinate geografiche) potrebbero non essere presenti o non essere aggiornati.  
