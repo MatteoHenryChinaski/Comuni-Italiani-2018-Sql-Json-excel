@@ -1,0 +1,11560 @@
+[
+	{
+		"istat": "1801",
+		"comune": "Abbadia Alpina",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1802",
+		"comune": "Avuglione e Vernone",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1803",
+		"comune": "Baio Dora",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1804",
+		"comune": "Bairo Torre",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1805",
+		"comune": "Baratonia",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1806",
+		"comune": "Bardassano",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1807",
+		"comune": "Beaulard",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1808",
+		"comune": "Bonzo",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1809",
+		"comune": "Bousson",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1810",
+		"comune": "Bovile",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1811",
+		"comune": "Bussolino Gassinese",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1812",
+		"comune": "Camagna di Torino",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1813",
+		"comune": "Campiglia Soana",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1814",
+		"comune": "Campo Canavese",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1815",
+		"comune": "Caravino",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1816",
+		"comune": "Cavoretto",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1817",
+		"comune": "Cesnola",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1818",
+		"comune": "Champlas-Du-Col",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1819",
+		"comune": "Chiabrano",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1820",
+		"comune": "Col San Giovanni",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1821",
+		"comune": "Desertes",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1822",
+		"comune": "Drusacco",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1823",
+		"comune": "Faetto",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1824",
+		"comune": "Favria-Oglianico",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1825",
+		"comune": "Fenile",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1826",
+		"comune": "Fenils",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1827",
+		"comune": "Foresto di Susa",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1828",
+		"comune": "Forno Alpi Graie",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1829",
+		"comune": "Frassinere",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1830",
+		"comune": "Gauna",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1831",
+		"comune": "Inverso Porte",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1832",
+		"comune": "Luserna",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1833",
+		"comune": "Maniglia",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1834",
+		"comune": "Marcorengo",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1835",
+		"comune": "Meano",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1836",
+		"comune": "Melezet",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1837",
+		"comune": "Mentoulles",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1838",
+		"comune": "Millaures",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1839",
+		"comune": "Mocchie",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1840",
+		"comune": "Mollieres",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1841",
+		"comune": "Monasterolo Torinese",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1842",
+		"comune": "Mondrone",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1843",
+		"comune": "Montestrutto",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1844",
+		"comune": "Muriaglio",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1845",
+		"comune": "Novareglia",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1846",
+		"comune": "Palazzo Piverone",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1847",
+		"comune": "Pedanea",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1848",
+		"comune": "Piazzo",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1849",
+		"comune": "Priacco",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1850",
+		"comune": "Revigliasco Torinese",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1851",
+		"comune": "Riclaretto",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1852",
+		"comune": "Rivera",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1853",
+		"comune": "Roccapiatta",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1854",
+		"comune": "Rochemolles",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1855",
+		"comune": "Rodoretto",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1856",
+		"comune": "Rollieres",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1857",
+		"comune": "Salecanischio",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1858",
+		"comune": "Sale Castelnuovo",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1859",
+		"comune": "Salto",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1860",
+		"comune": "San Gillio Torinese",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1861",
+		"comune": "San Giovanni Pellice",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1862",
+		"comune": "San Martino di Perrero",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1863",
+		"comune": "Savoulx",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1864",
+		"comune": "Solomiac",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1865",
+		"comune": "Strambino Romano",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1866",
+		"comune": "Tavernette",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1867",
+		"comune": "Thures",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1868",
+		"comune": "Tina",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1869",
+		"comune": "Traverse",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1870",
+		"comune": "Valchiusella",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1871",
+		"comune": "Valprato",
+		"provincia": "TO"
+	},
+	{
+		"istat": "1872",
+		"comune": "Villa Castelnuovo",
+		"provincia": "TO"
+	},
+	{
+		"istat": "2801",
+		"comune": "Agnona",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2802",
+		"comune": "Andorno Cacciorna",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2803",
+		"comune": "Aranco",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2804",
+		"comune": "Bornate",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2805",
+		"comune": "Camasco",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2806",
+		"comune": "Cascine di Stra",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2807",
+		"comune": "Castellengo",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2808",
+		"comune": "Castelletto Villa",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2809",
+		"comune": "Cervarolo",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2810",
+		"comune": "Chiavazza",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2811",
+		"comune": "Cossila",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2812",
+		"comune": "Crevola Sesia",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2813",
+		"comune": "Croce di Mosso",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2814",
+		"comune": "Doccio",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2815",
+		"comune": "Ferruta",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2816",
+		"comune": "Flecchia",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2817",
+		"comune": "Foresto Sesia",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2818",
+		"comune": "Isolella",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2819",
+		"comune": "Locarno",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2820",
+		"comune": "Morca",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2821",
+		"comune": "Morondo",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2822",
+		"comune": "Parone",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2823",
+		"comune": "Pianceri",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2824",
+		"comune": "Piane Sesia",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2825",
+		"comune": "Rocca Pietra",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2826",
+		"comune": "San Giuseppe di Casto",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2827",
+		"comune": "Valle Superiore Mosso",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2828",
+		"comune": "Valmaggia",
+		"provincia": "VC"
+	},
+	{
+		"istat": "2829",
+		"comune": "Vintebbio",
+		"provincia": "VC"
+	},
+	{
+		"istat": "3801",
+		"comune": "Agaro",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3802",
+		"comune": "Agnellengo",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3803",
+		"comune": "Agrano",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3804",
+		"comune": "Albogno",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3805",
+		"comune": "Alzate con Linduno",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3806",
+		"comune": "Antronapiana",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3807",
+		"comune": "Anzino",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3808",
+		"comune": "Ara",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3809",
+		"comune": "Arizzano",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3810",
+		"comune": "Arizzano Inferiore",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3811",
+		"comune": "Arizzano Superiore",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3812",
+		"comune": "Artò",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3813",
+		"comune": "Auzate",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3814",
+		"comune": "Beura",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3815",
+		"comune": "Bieno",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3816",
+		"comune": "Bognanco Dentro",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3817",
+		"comune": "Bognanco Fuori",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3818",
+		"comune": "Boleto",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3819",
+		"comune": "Borgone d'Ossola",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3820",
+		"comune": "Brisino",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3821",
+		"comune": "Brovello",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3822",
+		"comune": "Bugnate",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3823",
+		"comune": "Buttogno",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3824",
+		"comune": "Caddo",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3825",
+		"comune": "Calice Ossolano",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3826",
+		"comune": "Calogna",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3827",
+		"comune": "Campello Monti",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3828",
+		"comune": "Cardezza",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3829",
+		"comune": "Cargiago",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3830",
+		"comune": "Carpugnino",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3831",
+		"comune": "Casaleggio Castellazzo",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3832",
+		"comune": "Castiglione d'Ossola",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3833",
+		"comune": "Cavaglio San Donnino",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3834",
+		"comune": "Cavandone",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3835",
+		"comune": "Chignolo Verbano",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3836",
+		"comune": "Cimamulera",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3837",
+		"comune": "Cireggio",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3838",
+		"comune": "Cisore",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3839",
+		"comune": "Coimo",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3840",
+		"comune": "Coiromonte",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3841",
+		"comune": "Comnago",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3842",
+		"comune": "Corciago",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3843",
+		"comune": "Crana Gattugno",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3844",
+		"comune": "Cravegna",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3845",
+		"comune": "Crusinallo",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3846",
+		"comune": "Cursolo",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3847",
+		"comune": "Cuzzago",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3848",
+		"comune": "Dagnente",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3849",
+		"comune": "Dissimo",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3850",
+		"comune": "Esio",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3851",
+		"comune": "Finero",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3852",
+		"comune": "Folsogno",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3853",
+		"comune": "Fomarco",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3854",
+		"comune": "Fornero",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3855",
+		"comune": "Forno",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3856",
+		"comune": "Fosseno",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3857",
+		"comune": "Ghevio",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3858",
+		"comune": "Graglia Piana",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3859",
+		"comune": "Intra",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3860",
+		"comune": "Invorio Superiore",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3861",
+		"comune": "Isola San Giulio",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3862",
+		"comune": "Luzzogno",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3863",
+		"comune": "Magognino",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3864",
+		"comune": "Mercurago",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3865",
+		"comune": "Migiandone",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3866",
+		"comune": "Monte Ossolano",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3867",
+		"comune": "Montebuglio",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3868",
+		"comune": "Montrigiasco",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3869",
+		"comune": "Mozzio",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3870",
+		"comune": "Nocco",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3871",
+		"comune": "Olgia",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3872",
+		"comune": "Orasso",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3873",
+		"comune": "Orta Novarese",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3874",
+		"comune": "Pallanza",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3875",
+		"comune": "Preglia",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3876",
+		"comune": "Prequartera",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3877",
+		"comune": "Quarna",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3878",
+		"comune": "Rovegro",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3879",
+		"comune": "Rumianca",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3880",
+		"comune": "Salecchio",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3881",
+		"comune": "Sambughetto",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3882",
+		"comune": "San Bartolomeo Valmara",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3883",
+		"comune": "San Carlo d'Ossola",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3884",
+		"comune": "Sant’Agata Sopra Cannobio",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3885",
+		"comune": "Santa Maria Maggiore e Crana",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3886",
+		"comune": "Santino",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3887",
+		"comune": "Schieranco",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3888",
+		"comune": "Sologno",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3889",
+		"comune": "Sovazza",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3890",
+		"comune": "Spoccia",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3891",
+		"comune": "Stropino",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3892",
+		"comune": "Suna",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3893",
+		"comune": "Tapigliano",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3894",
+		"comune": "Tappia",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3895",
+		"comune": "Traffiume",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3896",
+		"comune": "Trobaso",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3897",
+		"comune": "Unchio",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3898",
+		"comune": "Vagna",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3899",
+		"comune": "Vergano Novarese",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3900",
+		"comune": "Vezzo",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3901",
+		"comune": "Viceno",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3902",
+		"comune": "Viggiona",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3903",
+		"comune": "Vocogno e Prestinone",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3904",
+		"comune": "Zornasco",
+		"provincia": "NO"
+	},
+	{
+		"istat": "3905",
+		"comune": "Zoverallo",
+		"provincia": "NO"
+	},
+	{
+		"istat": "4801",
+		"comune": "Albaretto Valle di Macra",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4802",
+		"comune": "Alma",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4803",
+		"comune": "Andonno",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4804",
+		"comune": "Bersezio",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4805",
+		"comune": "Briga Marittima",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4806",
+		"comune": "Castelletto Monforte",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4807",
+		"comune": "Gaiola Moiola",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4808",
+		"comune": "Gorrino",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4809",
+		"comune": "Lottulo",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4810",
+		"comune": "Malpotremo",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4811",
+		"comune": "Novello Monchiero",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4812",
+		"comune": "Paglieres",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4813",
+		"comune": "Perno",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4814",
+		"comune": "Priero Montezemolo",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4815",
+		"comune": "Sambuco-Pietraporzio",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4816",
+		"comune": "San Michele Prazzo",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4817",
+		"comune": "San Pietro di Monterosso",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4818",
+		"comune": "Scaletta Uzzone",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4819",
+		"comune": "Scarnafigi-Ruffia",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4820",
+		"comune": "Tenda",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4821",
+		"comune": "Torre Uzzone",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4822",
+		"comune": "Ussolo",
+		"provincia": "CN"
+	},
+	{
+		"istat": "4823",
+		"comune": "Villanovetta",
+		"provincia": "CN"
+	},
+	{
+		"istat": "5043",
+		"comune": "Colcavagno",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5078",
+		"comune": "Montiglio",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5102",
+		"comune": "Scandeluzza",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5801",
+		"comune": "Bagnasco d'Asti",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5802",
+		"comune": "Castelvero d'Asti",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5803",
+		"comune": "Castiglione d'Asti",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5804",
+		"comune": "Cocconito",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5805",
+		"comune": "Dusino",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5806",
+		"comune": "Marmorito",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5807",
+		"comune": "Mondonio",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5808",
+		"comune": "Passerano",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5809",
+		"comune": "Primeglio Schierano",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5810",
+		"comune": "Quarto Astese",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5811",
+		"comune": "Rinco",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5812",
+		"comune": "San Marzano Moasca",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5813",
+		"comune": "San Marzanotto",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5814",
+		"comune": "San Michele d'Asti",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5815",
+		"comune": "San Paolo della Valle",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5816",
+		"comune": "Serravalle d’Asti",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5817",
+		"comune": "Sessant",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5818",
+		"comune": "Solbrito",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5819",
+		"comune": "Vaglierano",
+		"provincia": "AT"
+	},
+	{
+		"istat": "5820",
+		"comune": "Villa Corsione",
+		"provincia": "AT"
+	},
+	{
+		"istat": "6801",
+		"comune": "Bisio",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6802",
+		"comune": "Brignano del Curone",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6803",
+		"comune": "Brusaschetto",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6804",
+		"comune": "Carezzano Superiore",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6805",
+		"comune": "Castel de' Ratti",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6806",
+		"comune": "Castel San Pietro Monferrato",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6807",
+		"comune": "Corteranzo",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6808",
+		"comune": "Cuquello",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6809",
+		"comune": "Forotondo",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6810",
+		"comune": "Frascata",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6811",
+		"comune": "Groppo",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6812",
+		"comune": "Malvino",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6813",
+		"comune": "Molino Alzano",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6814",
+		"comune": "Molo di Borbera",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6815",
+		"comune": "Montalero",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6816",
+		"comune": "Montechiaro Denice",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6817",
+		"comune": "Pavone d'Alessandria",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6818",
+		"comune": "Quarti",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6819",
+		"comune": "Rosingo",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6820",
+		"comune": "Salabue",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6821",
+		"comune": "Sorli",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6822",
+		"comune": "Tagliolo Belforte",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6823",
+		"comune": "Torre de' Ratti",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6824",
+		"comune": "Varengo",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6825",
+		"comune": "Vargo",
+		"provincia": "AL"
+	},
+	{
+		"istat": "6826",
+		"comune": "Villabella",
+		"provincia": "AL"
+	},
+	{
+		"istat": "7801",
+		"comune": "Challant",
+		"provincia": "AO"
+	},
+	{
+		"istat": "7802",
+		"comune": "Gressoney",
+		"provincia": "AO"
+	},
+	{
+		"istat": "7803",
+		"comune": "Rhêmes",
+		"provincia": "AO"
+	},
+	{
+		"istat": "7804",
+		"comune": "Valdigna d’Aosta",
+		"provincia": "AO"
+	},
+	{
+		"istat": "8801",
+		"comune": "Arzeno d'Oneglia",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8802",
+		"comune": "Bestagno",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8803",
+		"comune": "Borghetto San Nicolò",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8804",
+		"comune": "Borgo Sant'Agata",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8805",
+		"comune": "Boscomare",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8806",
+		"comune": "Bussana",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8807",
+		"comune": "Candeasco",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8808",
+		"comune": "Caramagna Ligure",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8809",
+		"comune": "Cartari e Calderara",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8810",
+		"comune": "Castelvecchio di Santa Maria Maggiore",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8811",
+		"comune": "Cenova",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8812",
+		"comune": "Col di Rodi",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8813",
+		"comune": "Conio",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8814",
+		"comune": "Costa d'Oneglia",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8815",
+		"comune": "Diano Borello",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8816",
+		"comune": "Diano Calderina",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8817",
+		"comune": "Gazzelli",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8818",
+		"comune": "Lavina",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8819",
+		"comune": "Lingueglietta",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8820",
+		"comune": "Maro Castello",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8821",
+		"comune": "Mendatica Montegrosso",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8822",
+		"comune": "Moano",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8823",
+		"comune": "Moltedo Superiore",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8824",
+		"comune": "Montegrazie",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8825",
+		"comune": "Olivastri",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8826",
+		"comune": "Oneglia",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8827",
+		"comune": "Pantasina",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8828",
+		"comune": "Pianavia",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8829",
+		"comune": "Piani",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8830",
+		"comune": "Poggi",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8831",
+		"comune": "Riva Santo Stefano",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8832",
+		"comune": "San Lazzaro Reale",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8833",
+		"comune": "Sarola",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8834",
+		"comune": "Sasso di Bordighera",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8835",
+		"comune": "Tavole",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8836",
+		"comune": "Torrazza",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8837",
+		"comune": "Torria",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8838",
+		"comune": "Ubaga",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8839",
+		"comune": "Valloria Marittima",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8840",
+		"comune": "Villaguardia",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8841",
+		"comune": "Villatalla",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8842",
+		"comune": "Villaviani",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8843",
+		"comune": "Ville San Pietro",
+		"provincia": "IM"
+	},
+	{
+		"istat": "8844",
+		"comune": "Ville San Sebastiano",
+		"provincia": "IM"
+	},
+	{
+		"istat": "9801",
+		"comune": "Bardino Nuovo",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9802",
+		"comune": "Bardino Vecchio",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9803",
+		"comune": "Biestro",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9804",
+		"comune": "Borgio",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9805",
+		"comune": "Brovida",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9806",
+		"comune": "Cagna",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9807",
+		"comune": "Calvisio",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9808",
+		"comune": "Campochiesa",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9809",
+		"comune": "Carpe",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9810",
+		"comune": "Carretto",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9811",
+		"comune": "Cenesi",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9812",
+		"comune": "Ellera",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9813",
+		"comune": "Finalborgo",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9814",
+		"comune": "Finale Marina",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9815",
+		"comune": "Finale Pia",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9816",
+		"comune": "Gorra",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9817",
+		"comune": "Lodisio",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9818",
+		"comune": "Martina Olba",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9819",
+		"comune": "Olba",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9820",
+		"comune": "Orco",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9821",
+		"comune": "Perti",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9822",
+		"comune": "Portio",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9823",
+		"comune": "Ranzi Pietra",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9824",
+		"comune": "Rocchetta Cairo",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9825",
+		"comune": "Rocchetta Cengio",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9826",
+		"comune": "Santa Giulia",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9827",
+		"comune": "Segno",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9828",
+		"comune": "Varigotti",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9829",
+		"comune": "Vellego",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9830",
+		"comune": "Verezzi",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9831",
+		"comune": "Verzi Pietra",
+		"provincia": "SV"
+	},
+	{
+		"istat": "9832",
+		"comune": "Vezzi",
+		"provincia": "SV"
+	},
+	{
+		"istat": "10801",
+		"comune": "Apparizione",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10802",
+		"comune": "Bavari",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10803",
+		"comune": "Bogliasco Pieve",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10804",
+		"comune": "Bolzaneto",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10805",
+		"comune": "Borzoli",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10806",
+		"comune": "Canepa",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10807",
+		"comune": "Cornigliano Ligure",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10808",
+		"comune": "Foce",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10809",
+		"comune": "Marassi",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10810",
+		"comune": "Molassana",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10811",
+		"comune": "Multedo",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10812",
+		"comune": "Nervi",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10813",
+		"comune": "Pegli",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10814",
+		"comune": "Pontedecimo",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10815",
+		"comune": "Pra",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10816",
+		"comune": "Quarto dei Mille",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10817",
+		"comune": "Quinto al Mare",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10818",
+		"comune": "Rivarolo Ligure",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10819",
+		"comune": "San Francesco d'Albaro",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10820",
+		"comune": "San Fruttuoso",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10821",
+		"comune": "San Giovanni Battista",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10822",
+		"comune": "San Martino d'Albaro",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10823",
+		"comune": "San Pier d'Arena",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10824",
+		"comune": "San Quirico in Val Polcevera",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10825",
+		"comune": "Sant'Ilario Ligure",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10826",
+		"comune": "Sestri Ponente",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10827",
+		"comune": "Staglieno",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10828",
+		"comune": "Struppa",
+		"provincia": "GE"
+	},
+	{
+		"istat": "10829",
+		"comune": "Voltri",
+		"provincia": "GE"
+	},
+	{
+		"istat": "11801",
+		"comune": "Trebiano Magra",
+		"provincia": "SP"
+	},
+	{
+		"istat": "12094",
+		"comune": "Maccagno",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12112",
+		"comune": "Pino sulla Sponda del Lago Maggiore",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12135",
+		"comune": "Veddasca",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12801",
+		"comune": "Abbiateguazzone",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12802",
+		"comune": "Albusciago",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12803",
+		"comune": "Arbizzo",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12804",
+		"comune": "Arcumeggia",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12805",
+		"comune": "Ardena",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12806",
+		"comune": "Armio",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12807",
+		"comune": "Arnate",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12808",
+		"comune": "Arolo",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12809",
+		"comune": "Ballarate",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12810",
+		"comune": "Barza",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12811",
+		"comune": "Barzola",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12812",
+		"comune": "Biegno",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12813",
+		"comune": "Bizzozero",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12814",
+		"comune": "Bobbiate",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12815",
+		"comune": "Bodio",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12816",
+		"comune": "Bogno",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12817",
+		"comune": "Bolladello",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12818",
+		"comune": "Borsano",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12819",
+		"comune": "Bosco Valtravaglia",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12820",
+		"comune": "Brenno Useria",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12821",
+		"comune": "Brissago",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12822",
+		"comune": "Cadegliano",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12823",
+		"comune": "Cadero con Graglio",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12824",
+		"comune": "Caidate",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12825",
+		"comune": "Cajello",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12826",
+		"comune": "Campagnano Vedasca",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12827",
+		"comune": "Capolago",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12828",
+		"comune": "Capronno",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12829",
+		"comune": "Cardana",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12830",
+		"comune": "Caronno Corbellaro",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12831",
+		"comune": "Cassina Ferrara",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12832",
+		"comune": "Cassina Pertusella",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12833",
+		"comune": "Cassina Verghera",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12834",
+		"comune": "Castegnate Olona",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12835",
+		"comune": "Castelnovate",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12836",
+		"comune": "Cavona",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12837",
+		"comune": "Cedrate",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12838",
+		"comune": "Celina",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12839",
+		"comune": "Cerro Lago Maggiore",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12840",
+		"comune": "Cimbro",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12841",
+		"comune": "Cocquio",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12842",
+		"comune": "Corgeno",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12843",
+		"comune": "Crenna",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12844",
+		"comune": "Crugnola",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12845",
+		"comune": "Cugliate",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12846",
+		"comune": "Cuveglio in Valle",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12847",
+		"comune": "Cuvirone",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12848",
+		"comune": "Due Cossani",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12849",
+		"comune": "Fabiasco",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12850",
+		"comune": "Garabiolo",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12851",
+		"comune": "Gazzada",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12852",
+		"comune": "Gornate-Superiore",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12853",
+		"comune": "Gurone",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12854",
+		"comune": "Jerago con Besnate ed Orago",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12855",
+		"comune": "Laveno",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12856",
+		"comune": "Lisanza",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12857",
+		"comune": "Lissago",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12858",
+		"comune": "Lozzo",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12859",
+		"comune": "Maccagno Inferiore",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12860",
+		"comune": "Masnago",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12861",
+		"comune": "Menzago",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12862",
+		"comune": "Mezzana Superiore",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12863",
+		"comune": "Mombello Lago Maggiore",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12864",
+		"comune": "Monate",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12865",
+		"comune": "Montanate",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12866",
+		"comune": "Montegrino",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12867",
+		"comune": "Monteviasco",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12868",
+		"comune": "Morosolo",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12869",
+		"comune": "Muceno",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12870",
+		"comune": "Musadino",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12871",
+		"comune": "Musignano",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12872",
+		"comune": "Nizzolina",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12873",
+		"comune": "Olginasio",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12874",
+		"comune": "Oltrona al Lago",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12875",
+		"comune": "Oriano Sopra Ticino",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12876",
+		"comune": "Orino-Azzio",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12877",
+		"comune": "Peveranza",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12878",
+		"comune": "Premezzo",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12879",
+		"comune": "Prospiano",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12880",
+		"comune": "Quinzano San Pietro",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12881",
+		"comune": "Roggiano Valtravaglia",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12882",
+		"comune": "Rovate",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12883",
+		"comune": "Runo",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12884",
+		"comune": "Sacconago",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12885",
+		"comune": "San Pancrazio al Colle",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12886",
+		"comune": "Sant’Ambrogio Olona",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12887",
+		"comune": "Sant’Antonino Ticino",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12888",
+		"comune": "Santa Maria del Monte",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12889",
+		"comune": "Schianno",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12890",
+		"comune": "Sesona",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12891",
+		"comune": "Solbiate sull’Arno",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12892",
+		"comune": "Torba",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12893",
+		"comune": "Tornavento",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12894",
+		"comune": "Travedona",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12895",
+		"comune": "Trevisago",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12896",
+		"comune": "Vararo",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12897",
+		"comune": "Veccana",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12898",
+		"comune": "Velate",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12899",
+		"comune": "Venegono",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12900",
+		"comune": "Vergobbio",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12901",
+		"comune": "Viconago",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12902",
+		"comune": "Villa Dosia",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12903",
+		"comune": "Vinago",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12904",
+		"comune": "Voldomino",
+		"provincia": "VA"
+	},
+	{
+		"istat": "12905",
+		"comune": "Voltore",
+		"provincia": "VA"
+	},
+	{
+		"istat": "13019",
+		"comune": "Bellagio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13061",
+		"comune": "Cavallasca",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13070",
+		"comune": "Civenna",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13076",
+		"comune": "Consiglio di Rumo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13093",
+		"comune": "Drezzo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13108",
+		"comune": "Germasino",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13109",
+		"comune": "Gironico",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13112",
+		"comune": "Gravedona",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13122",
+		"comune": "Lanzo d'Intelvi",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13125",
+		"comune": "Lenno",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13148",
+		"comune": "Mezzegra",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13172",
+		"comune": "Ossuccio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13175",
+		"comune": "Parè",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13179",
+		"comune": "Pellio Intelvi",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13194",
+		"comune": "Ramponio Verna",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13208",
+		"comune": "Sant'Abbondio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13210",
+		"comune": "Santa Maria Rezzonico",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13225",
+		"comune": "Tremezzo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13801",
+		"comune": "Abbadia Sopra Adda",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13802",
+		"comune": "Acquate",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13803",
+		"comune": "Aizurro",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13804",
+		"comune": "Albate",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13805",
+		"comune": "Albese",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13806",
+		"comune": "Albogasio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13807",
+		"comune": "Arcellasco",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13808",
+		"comune": "Asnago",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13809",
+		"comune": "Bagaggera",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13810",
+		"comune": "Baiedo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13811",
+		"comune": "Ballabio Inferiore",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13812",
+		"comune": "Ballabio Superiore",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13813",
+		"comune": "Barcone",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13814",
+		"comune": "Bartesate",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13815",
+		"comune": "Belledo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13816",
+		"comune": "Bernaga",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13817",
+		"comune": "Bernate Rosales",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13818",
+		"comune": "Biglio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13819",
+		"comune": "Bindo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13820",
+		"comune": "Breccia",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13821",
+		"comune": "Breglia",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13822",
+		"comune": "Brenno della Torre",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13823",
+		"comune": "Brianzola",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13824",
+		"comune": "Buccinigo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13825",
+		"comune": "Buggiolo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13826",
+		"comune": "Bugiallo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13827",
+		"comune": "Bulgorello",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13828",
+		"comune": "Cagliano",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13829",
+		"comune": "Camerlata",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13830",
+		"comune": "Camnago Faloppia",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13831",
+		"comune": "Camnago Volta",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13832",
+		"comune": "Capiago",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13833",
+		"comune": "Capiate",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13834",
+		"comune": "Carate Lario",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13835",
+		"comune": "Carcano",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13836",
+		"comune": "Carella con Mariaga",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13837",
+		"comune": "Careno",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13838",
+		"comune": "Carlazzo Valsolda",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13839",
+		"comune": "Carugo Arosio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13840",
+		"comune": "Casanova Lanza",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13841",
+		"comune": "Casirago",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13842",
+		"comune": "Casletto",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13843",
+		"comune": "Caslino al Piano",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13844",
+		"comune": "Casnate",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13845",
+		"comune": "Cassago",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13846",
+		"comune": "Cassano Albese",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13847",
+		"comune": "Cassina de' Bracchi",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13848",
+		"comune": "Cassina Mariaga",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13849",
+		"comune": "Castello Sopra Lecco",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13850",
+		"comune": "Castello Valsolda",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13851",
+		"comune": "Caversaccio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13852",
+		"comune": "Centemero",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13853",
+		"comune": "Cereda",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13854",
+		"comune": "Cernusco Montevecchia",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13855",
+		"comune": "Cesello Brianza",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13856",
+		"comune": "Chiuso",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13857",
+		"comune": "Cima",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13858",
+		"comune": "Civello",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13859",
+		"comune": "Civiglio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13860",
+		"comune": "Colciago",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13861",
+		"comune": "Cologna",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13862",
+		"comune": "Concenedo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13863",
+		"comune": "Consonno",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13864",
+		"comune": "Contra",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13865",
+		"comune": "Corenno Plinio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13866",
+		"comune": "Cortabbio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13867",
+		"comune": "Cremnago",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13868",
+		"comune": "Cressogno",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13869",
+		"comune": "Crevenna",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13870",
+		"comune": "Croce",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13871",
+		"comune": "Dasio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13872",
+		"comune": "Dozio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13873",
+		"comune": "Drano",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13874",
+		"comune": "Erba Incino",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13875",
+		"comune": "Esino Inferiore",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13876",
+		"comune": "Esino Superiore",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13877",
+		"comune": "Fabbrica Durini",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13878",
+		"comune": "Gaggino",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13879",
+		"comune": "Germanedo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13880",
+		"comune": "Gottro",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13881",
+		"comune": "Grandola",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13882",
+		"comune": "Grona",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13883",
+		"comune": "Imberido",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13884",
+		"comune": "Incino",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13885",
+		"comune": "Indovero",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13886",
+		"comune": "Intimiano",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13887",
+		"comune": "Isola Comacina",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13888",
+		"comune": "Laorca",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13889",
+		"comune": "Lemna",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13890",
+		"comune": "Lezza",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13891",
+		"comune": "Lieto Colle",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13892",
+		"comune": "Limonta",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13893",
+		"comune": "Linzanico",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13894",
+		"comune": "Lomaniga",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13895",
+		"comune": "Loveno Sopra Menaggio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13896",
+		"comune": "Lucino",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13897",
+		"comune": "Maccio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13898",
+		"comune": "Maggianico",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13899",
+		"comune": "Minoprio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13900",
+		"comune": "Mirabello Comasco",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13901",
+		"comune": "Moiana",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13902",
+		"comune": "Molina",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13903",
+		"comune": "Mondonico",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13904",
+		"comune": "Montano Comasco",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13905",
+		"comune": "Monte Olimpino",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13906",
+		"comune": "Nava",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13907",
+		"comune": "Novate Brianza",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13908",
+		"comune": "Olate",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13909",
+		"comune": "Olcio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13910",
+		"comune": "Onno",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13911",
+		"comune": "Oriano di Brianza",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13912",
+		"comune": "Pagnano Valsassina",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13913",
+		"comune": "Palanzo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13914",
+		"comune": "Parravicino",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13915",
+		"comune": "Penzano",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13916",
+		"comune": "Pessina Valsassina",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13917",
+		"comune": "Piano Porlezza",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13918",
+		"comune": "Piazza Santo Stefano",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13919",
+		"comune": "Ponte Lambro",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13920",
+		"comune": "Ponzate",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13921",
+		"comune": "Puria",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13922",
+		"comune": "Ramponio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13923",
+		"comune": "Rancio di Lecco",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13924",
+		"comune": "Ravellino",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13925",
+		"comune": "Rebbio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13926",
+		"comune": "Rezzonico",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13927",
+		"comune": "Romanò Brianza",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13928",
+		"comune": "Rongio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13929",
+		"comune": "Rovenna",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13930",
+		"comune": "Sabbioncello",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13931",
+		"comune": "Sala al Barro",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13932",
+		"comune": "San Bartolomeo al Bosco",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13933",
+		"comune": "San Giovanni alla Castagna",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13934",
+		"comune": "San Siro",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13935",
+		"comune": "Santa Maria di Rovagnate",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13936",
+		"comune": "Santa Valeria",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13937",
+		"comune": "Sartirana Briantea",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13938",
+		"comune": "Scarenna",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13939",
+		"comune": "Scaria",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13940",
+		"comune": "Seghebbia",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13941",
+		"comune": "Seprio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13942",
+		"comune": "Solzago",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13943",
+		"comune": "Somana",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13944",
+		"comune": "Stazzona Germasino",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13945",
+		"comune": "Tavordo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13946",
+		"comune": "Traversa",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13947",
+		"comune": "Tregolo",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13948",
+		"comune": "Tremezzina",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13949",
+		"comune": "Trevano",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13950",
+		"comune": "Uggiate",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13951",
+		"comune": "Urio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13952",
+		"comune": "Vassena",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13953",
+		"comune": "Verderio",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13954",
+		"comune": "Verna",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13955",
+		"comune": "Vertemate",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13956",
+		"comune": "Vill’Albese",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13957",
+		"comune": "Villa Romanò",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13958",
+		"comune": "Villa Vergano",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13959",
+		"comune": "Vimogno",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13960",
+		"comune": "Visino",
+		"provincia": "CO"
+	},
+	{
+		"istat": "13961",
+		"comune": "Zelbio-Veleso",
+		"provincia": "CO"
+	},
+	{
+		"istat": "14042",
+		"comune": "Menarola",
+		"provincia": "SO"
+	},
+	{
+		"istat": "14801",
+		"comune": "Acqua",
+		"provincia": "SO"
+	},
+	{
+		"istat": "14802",
+		"comune": "Boffetto",
+		"provincia": "SO"
+	},
+	{
+		"istat": "14803",
+		"comune": "Campovico",
+		"provincia": "SO"
+	},
+	{
+		"istat": "15801",
+		"comune": "Affori",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15802",
+		"comune": "Agliate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15803",
+		"comune": "Arcagna",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15804",
+		"comune": "Baggio",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15805",
+		"comune": "Balsamo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15806",
+		"comune": "Baranzate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15807",
+		"comune": "Barate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15808",
+		"comune": "Barbajana",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15809",
+		"comune": "Bargano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15810",
+		"comune": "Bestazzo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15811",
+		"comune": "Bienate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15812",
+		"comune": "Binzago",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15813",
+		"comune": "Birago",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15814",
+		"comune": "Bisentrate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15815",
+		"comune": "Boldinasco",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15816",
+		"comune": "Bolgiano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15817",
+		"comune": "Bonirola",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15818",
+		"comune": "Bornago",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15819",
+		"comune": "Bottedo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15820",
+		"comune": "Briavacca",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15821",
+		"comune": "Brusuglio",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15822",
+		"comune": "Bruzzano dei Due Borghi",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15823",
+		"comune": "Bustighera",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15824",
+		"comune": "Ca' de' Mazzi",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15825",
+		"comune": "Ca' de' Zecchi",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15826",
+		"comune": "Ca' dei Bolli",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15827",
+		"comune": "Ca' dell'Acqua",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15828",
+		"comune": "Calò",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15829",
+		"comune": "Campolungo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15830",
+		"comune": "Capriano di Brianza",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15831",
+		"comune": "Caselle d'Ozero",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15832",
+		"comune": "Casirate Olona",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15833",
+		"comune": "Casolate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15834",
+		"comune": "Casone",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15835",
+		"comune": "Cassina Aliprandi",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15836",
+		"comune": "Cassina Amata",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15837",
+		"comune": "Cassina Baraggia",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15838",
+		"comune": "Cassina de' Gatti",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15839",
+		"comune": "Cassina Nuova",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15840",
+		"comune": "Cassina Pobbia",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15841",
+		"comune": "Cassina Savina",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15842",
+		"comune": "Cassina Triulza",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15843",
+		"comune": "Cassino d'Alberi",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15844",
+		"comune": "Castellazzo de' Barzi",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15845",
+		"comune": "Castelletto Mendosio",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15846",
+		"comune": "Castiraga da Reggio",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15847",
+		"comune": "Cavaione",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15848",
+		"comune": "Caviaga",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15849",
+		"comune": "Cazzano Besana",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15850",
+		"comune": "Ceppeda",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15851",
+		"comune": "Cerchiate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15852",
+		"comune": "Chiaravalle Milanese",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15853",
+		"comune": "Chiosi d'Adda Vigadore",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15854",
+		"comune": "Chiosi di Porta Cremonese",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15855",
+		"comune": "Chiosi di Porta d'Adda",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15856",
+		"comune": "Chiosi di Porta Regale",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15857",
+		"comune": "Chiosi Uniti con Bottedo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15858",
+		"comune": "Cinisello",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15859",
+		"comune": "Coazzano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15860",
+		"comune": "Colnago",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15861",
+		"comune": "Colzano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15862",
+		"comune": "Concesa",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15863",
+		"comune": "Copreno",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15864",
+		"comune": "Corneliano Bertario",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15865",
+		"comune": "Corpi Santi di Milano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15866",
+		"comune": "Corte Sant'Andrea",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15867",
+		"comune": "Costa al Lambro",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15868",
+		"comune": "Crescenzago",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15869",
+		"comune": "Dergano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15870",
+		"comune": "Dugnano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15871",
+		"comune": "Fagnano sul Naviglio",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15872",
+		"comune": "Figino di Milano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15873",
+		"comune": "Furato",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15874",
+		"comune": "Garbatola",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15875",
+		"comune": "Garegnano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15876",
+		"comune": "Gattera Maiocca",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15877",
+		"comune": "Gorlaprecotto",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15878",
+		"comune": "Grancino",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15879",
+		"comune": "Grazzanello",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15880",
+		"comune": "Greco Milanese",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15881",
+		"comune": "Groppello d'Adda",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15882",
+		"comune": "Guazzina",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15883",
+		"comune": "Gugnano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15884",
+		"comune": "Incirano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15885",
+		"comune": "Induno Ticino",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15886",
+		"comune": "Isola Balba",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15887",
+		"comune": "Lambrate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15888",
+		"comune": "Lardera",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15889",
+		"comune": "Limito",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15890",
+		"comune": "Linate al Lambro",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15891",
+		"comune": "Lucernate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15892",
+		"comune": "Marcallo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15893",
+		"comune": "Masciago Milanese",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15894",
+		"comune": "Mazzo Milanese",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15895",
+		"comune": "Melegnanello",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15896",
+		"comune": "Mercugnano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15897",
+		"comune": "Mettone",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15898",
+		"comune": "Mezzana Casati",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15899",
+		"comune": "Mezzano Passone",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15900",
+		"comune": "Mignette",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15901",
+		"comune": "Mirabello San Bernardino",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15902",
+		"comune": "Moncucco di Monza",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15903",
+		"comune": "Moncucco Vecchio",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15904",
+		"comune": "Mongiardino Sillaro",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15905",
+		"comune": "Montesiro",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15906",
+		"comune": "Morsenchio",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15907",
+		"comune": "Motta Vigana",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15908",
+		"comune": "Muggiano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15909",
+		"comune": "Musocco",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15910",
+		"comune": "Niguarda",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15911",
+		"comune": "Nosedo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15912",
+		"comune": "Novegro",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15913",
+		"comune": "Omate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15914",
+		"comune": "Oreno",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15915",
+		"comune": "Paina",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15916",
+		"comune": "Palazzolo Milanese",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15917",
+		"comune": "Passirana Milanese",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15918",
+		"comune": "Pasturago",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15919",
+		"comune": "Pedriano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15920",
+		"comune": "Pezzolo de' Codazzi",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15921",
+		"comune": "Pezzolo di Tavazzano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15922",
+		"comune": "Pinzano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15923",
+		"comune": "Pizzolano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15924",
+		"comune": "Pontesesto",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15925",
+		"comune": "Porto d'Adda",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15926",
+		"comune": "Precotto",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15927",
+		"comune": "Premenugo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15928",
+		"comune": "Quartiano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15929",
+		"comune": "Quarto Cagnino",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15930",
+		"comune": "Quinto Romano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15931",
+		"comune": "Quintosole",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15932",
+		"comune": "Regina Fittarezza",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15933",
+		"comune": "Rescalda",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15934",
+		"comune": "Riozzo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15935",
+		"comune": "Robbiano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15936",
+		"comune": "Robecchetto",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15937",
+		"comune": "Robecco Lodigiano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15938",
+		"comune": "Ronchetto",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15939",
+		"comune": "Roserio",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15940",
+		"comune": "Rovagnasco",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15941",
+		"comune": "Ruginello",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15942",
+		"comune": "San Damiano di Monza",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15943",
+		"comune": "San Giuliano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15944",
+		"comune": "San Novo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15945",
+		"comune": "San Pedrino",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15946",
+		"comune": "San Pietro Bestazzo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15947",
+		"comune": "San Pietro Cusico",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15948",
+		"comune": "San Vito e Marta",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15949",
+		"comune": "Sant’Agata Martesana",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15950",
+		"comune": "Santa Maria in Prato",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15951",
+		"comune": "Sellanuova",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15952",
+		"comune": "Sesto Pergola",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15953",
+		"comune": "Sesto Ulteriano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15954",
+		"comune": "Soltarico",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15955",
+		"comune": "Sulbiate Inferiore",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15956",
+		"comune": "Sulbiate Superiore",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15957",
+		"comune": "Tainate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15958",
+		"comune": "Tavazzano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15959",
+		"comune": "Terrazzano",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15960",
+		"comune": "Tormo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15961",
+		"comune": "Trecella",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15962",
+		"comune": "Tregasio",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15963",
+		"comune": "Trenno",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15964",
+		"comune": "Trivulza",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15965",
+		"comune": "Trivulzina",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15966",
+		"comune": "Turro Milanese",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15967",
+		"comune": "Usmate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15968",
+		"comune": "Vaiano Valle",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15969",
+		"comune": "Valle Guidino",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15970",
+		"comune": "Veduggio",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15971",
+		"comune": "Vergo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15972",
+		"comune": "Vidardo",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15973",
+		"comune": "Vigadore",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15974",
+		"comune": "Viganò Certosino",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15975",
+		"comune": "Vigentino",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15976",
+		"comune": "Vigonzino",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15977",
+		"comune": "Villa Pizzone",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15978",
+		"comune": "Villa Pompeiana",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15979",
+		"comune": "Villa Raverio",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15980",
+		"comune": "Villanova Vimercate",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15981",
+		"comune": "Villarossa",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15982",
+		"comune": "Vittadone",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15983",
+		"comune": "Zelo Foramagno",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15984",
+		"comune": "Zivido",
+		"provincia": "MI"
+	},
+	{
+		"istat": "15985",
+		"comune": "Zorlesco",
+		"provincia": "MI"
+	},
+	{
+		"istat": "16039",
+		"comune": "Brembilla",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16112",
+		"comune": "Gerosa",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16181",
+		"comune": "Riviera d'Adda",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16192",
+		"comune": "Sant'Omobono Terme",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16228",
+		"comune": "Valsecca",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16801",
+		"comune": "Albegno",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16802",
+		"comune": "Alzano di Sopra",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16803",
+		"comune": "Alzano Maggiore",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16804",
+		"comune": "Baresi",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16805",
+		"comune": "Barsizza",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16806",
+		"comune": "Bondione",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16807",
+		"comune": "Bondo Petello",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16808",
+		"comune": "Bordogna",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16809",
+		"comune": "Borgounito",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16810",
+		"comune": "Brembate di Sotto",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16811",
+		"comune": "Bruntino",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16812",
+		"comune": "Calepio",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16813",
+		"comune": "Capriate d'Adda",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16814",
+		"comune": "Carobbio",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16815",
+		"comune": "Cenate",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16816",
+		"comune": "Cenate d'Argon",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16817",
+		"comune": "Centrisola",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16818",
+		"comune": "Cepino",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16819",
+		"comune": "Colognola del Piano",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16820",
+		"comune": "Corte",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16821",
+		"comune": "Curdomo",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16822",
+		"comune": "Curnasco",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16823",
+		"comune": "Desenzano al Serio",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16824",
+		"comune": "Dezzo di Scalve",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16825",
+		"comune": "Endenna",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16826",
+		"comune": "Endine",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16827",
+		"comune": "Esmate",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16828",
+		"comune": "Filago",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16829",
+		"comune": "Fiumenero",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16830",
+		"comune": "Fondra",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16831",
+		"comune": "Frerola",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16832",
+		"comune": "Fuipiano al Brembo",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16833",
+		"comune": "Grignano",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16834",
+		"comune": "Grumello de' Zanchi",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16835",
+		"comune": "Grumello del Piano",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16836",
+		"comune": "Lizzola",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16837",
+		"comune": "Locate Bergamasco",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16838",
+		"comune": "Lorentino",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16839",
+		"comune": "Mariano al Brembo",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16840",
+		"comune": "Massari Melzi",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16841",
+		"comune": "Mazzoleni e Falghera",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16842",
+		"comune": "Molini di Colognola",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16843",
+		"comune": "Nese",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16844",
+		"comune": "Oltrepovo",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16845",
+		"comune": "Oltressenda Bassa",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16846",
+		"comune": "Orezzo",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16847",
+		"comune": "Ossanesga",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16848",
+		"comune": "Pian Gaiano",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16849",
+		"comune": "Piazzo Alto",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16850",
+		"comune": "Piazzo Basso",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16851",
+		"comune": "Poscante",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16852",
+		"comune": "Redona",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16853",
+		"comune": "Rigosa",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16854",
+		"comune": "Rocca del Colle",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16855",
+		"comune": "Rosciate",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16856",
+		"comune": "Rossino",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16857",
+		"comune": "Rota Dentro",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16858",
+		"comune": "Rota Fuori",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16859",
+		"comune": "Rovetta con Fino",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16860",
+		"comune": "Sabbio Bergamasco",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16861",
+		"comune": "San Gallo",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16862",
+		"comune": "San Gervasio d'Adda",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16863",
+		"comune": "San Martino de' Calvi",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16864",
+		"comune": "San Pietro d'Orzio",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16865",
+		"comune": "Sant’Antonio d'Adda",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16866",
+		"comune": "Santo Stefano del Monte degli Angeli",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16867",
+		"comune": "Scano al Brembo",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16868",
+		"comune": "Scanzo",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16869",
+		"comune": "Selino",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16870",
+		"comune": "Sellere",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16871",
+		"comune": "Sforzatica",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16872",
+		"comune": "Solto",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16873",
+		"comune": "Sombreno",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16874",
+		"comune": "Somendenna",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16875",
+		"comune": "Spino al Brembo",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16876",
+		"comune": "Spinone",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16877",
+		"comune": "Stabello",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16878",
+		"comune": "Tagliuno",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16879",
+		"comune": "Trabuchello",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16880",
+		"comune": "Vall’Alta",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16881",
+		"comune": "Valtesse",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16882",
+		"comune": "Villongo San Filastro",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16883",
+		"comune": "Villongo Sant’Alessandro",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16884",
+		"comune": "Vilminore",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16885",
+		"comune": "Zorzino",
+		"provincia": "BG"
+	},
+	{
+		"istat": "16886",
+		"comune": "Calolzio",
+		"provincia": "BG"
+	},
+	{
+		"istat": "17154",
+		"comune": "Prestine",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17801",
+		"comune": "Acqualunga",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17802",
+		"comune": "Alone",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17803",
+		"comune": "Anfurro",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17804",
+		"comune": "Armo",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17805",
+		"comune": "Avenone",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17806",
+		"comune": "Barco",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17807",
+		"comune": "Bel Prato",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17808",
+		"comune": "Bollone",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17809",
+		"comune": "Borgonato",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17810",
+		"comune": "Bornato",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17811",
+		"comune": "Botticino Mattina",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17812",
+		"comune": "Botticino Sera",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17813",
+		"comune": "Brozzo",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17814",
+		"comune": "Burago Riviera",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17815",
+		"comune": "Cadignano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17816",
+		"comune": "Cajonvico",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17817",
+		"comune": "Calino",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17818",
+		"comune": "Camignone",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17819",
+		"comune": "Campoverde",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17820",
+		"comune": "Carcina",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17821",
+		"comune": "Carzago della Riviera",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17822",
+		"comune": "Castrezzone",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17823",
+		"comune": "Ceto-Cerveno",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17824",
+		"comune": "Cignano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17825",
+		"comune": "Ciliverghe",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17826",
+		"comune": "Cimbergo-Paspardo",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17827",
+		"comune": "Cividate Malegno",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17828",
+		"comune": "Cizzago",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17829",
+		"comune": "Clusane sul Lago",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17830",
+		"comune": "Colombaro",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17831",
+		"comune": "Comero",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17832",
+		"comune": "Comezzano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17833",
+		"comune": "Cortenedolo",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17834",
+		"comune": "Corticelle Pieve",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17835",
+		"comune": "Cossirano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17836",
+		"comune": "Cremezzano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17837",
+		"comune": "Degagna",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17838",
+		"comune": "Erbanno",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17839",
+		"comune": "Farfengo",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17840",
+		"comune": "Faverzano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17841",
+		"comune": "Fiumicello Urago",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17842",
+		"comune": "Folzano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17843",
+		"comune": "Frontignano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17844",
+		"comune": "Gerolanuova",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17845",
+		"comune": "Goglione Sopra",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17846",
+		"comune": "Goglione Sotto",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17847",
+		"comune": "Gorzone",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17848",
+		"comune": "Inzino",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17849",
+		"comune": "Levrange",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17850",
+		"comune": "Livemmo",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17851",
+		"comune": "Loveno Grumello",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17852",
+		"comune": "Ludriano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17853",
+		"comune": "Lumezzane Pieve",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17854",
+		"comune": "Lumezzane San Sebastiano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17855",
+		"comune": "Lumezzane Sant’Apollonio",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17856",
+		"comune": "Maderno",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17857",
+		"comune": "Magno Sopra Inzino",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17858",
+		"comune": "Mazzunno",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17859",
+		"comune": "Milzanello",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17860",
+		"comune": "Moerna",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17861",
+		"comune": "Mompiano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17862",
+		"comune": "Mu",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17863",
+		"comune": "Navono",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17864",
+		"comune": "Nigoline",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17865",
+		"comune": "Nozza",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17866",
+		"comune": "Ono Degno",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17867",
+		"comune": "Oriano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17868",
+		"comune": "Padernello",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17869",
+		"comune": "Paisco",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17870",
+		"comune": "Persone",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17871",
+		"comune": "Peschiera Maraglio",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17872",
+		"comune": "Pezzoro",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17873",
+		"comune": "Pilzone",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17874",
+		"comune": "Poncarale Flero",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17875",
+		"comune": "Pontagna",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17876",
+		"comune": "Portese",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17877",
+		"comune": "Porzano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17878",
+		"comune": "Prandaglio",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17879",
+		"comune": "Presegno",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17880",
+		"comune": "Provaglio Sopra",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17881",
+		"comune": "Provaglio Sotto",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17882",
+		"comune": "Provezze",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17883",
+		"comune": "Quinzanello",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17884",
+		"comune": "Raffa",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17885",
+		"comune": "Remedello Sopra",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17886",
+		"comune": "Remedello Sotto",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17887",
+		"comune": "Rivoltella",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17888",
+		"comune": "Rodengo",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17889",
+		"comune": "Saiano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17890",
+		"comune": "San Bartolomeo",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17891",
+		"comune": "San Felice di Scovolo",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17892",
+		"comune": "San Nazzaro Mella",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17893",
+		"comune": "San Vigilio",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17894",
+		"comune": "Sant’Alessandro",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17895",
+		"comune": "Sant’Eufemia della Fonte",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17896",
+		"comune": "Santicolo",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17897",
+		"comune": "Scarpizzolo",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17898",
+		"comune": "Siviano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17899",
+		"comune": "Sopraponte",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17900",
+		"comune": "Soprazocco",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17901",
+		"comune": "Terzano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17902",
+		"comune": "Timoline",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17903",
+		"comune": "Torbiato",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17904",
+		"comune": "Toscolano",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17905",
+		"comune": "Urago Mella",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17906",
+		"comune": "Valsaviore",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17907",
+		"comune": "Vello",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17908",
+		"comune": "Villa Cogozzo",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17909",
+		"comune": "Villa d’Allegno",
+		"provincia": "BS"
+	},
+	{
+		"istat": "17910",
+		"comune": "Virle Treponti",
+		"provincia": "BS"
+	},
+	{
+		"istat": "18010",
+		"comune": "Bastida de' Dossi",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18055",
+		"comune": "Cornale",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18056",
+		"comune": "Corteolona",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18070",
+		"comune": "Genzone",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18801",
+		"comune": "Barona",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18802",
+		"comune": "Baselica Bologna",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18803",
+		"comune": "Belvedere al Po",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18804",
+		"comune": "Bottarone",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18805",
+		"comune": "Branduzzo",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18806",
+		"comune": "Bressana",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18807",
+		"comune": "Buttirago",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18808",
+		"comune": "Ca' de' Tedioli",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18809",
+		"comune": "Ca' della Terra",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18810",
+		"comune": "Cairo Lomellino",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18811",
+		"comune": "Calignano",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18812",
+		"comune": "Cambiò",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18813",
+		"comune": "Campomorto",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18814",
+		"comune": "Camporinaldo",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18815",
+		"comune": "Campospinoso Albaredo",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18816",
+		"comune": "Cantonale",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18817",
+		"comune": "Carpignago",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18818",
+		"comune": "Casatico",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18819",
+		"comune": "Cassine Calderari",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18820",
+		"comune": "Cassine Sirigari",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18821",
+		"comune": "Cassine Tolentine",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18822",
+		"comune": "Cassino Po",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18823",
+		"comune": "Castel Lambro",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18824",
+		"comune": "Castellaro de' Giorgi",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18825",
+		"comune": "Castelletto Po",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18826",
+		"comune": "Cavagnera",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18827",
+		"comune": "Cella di Bobbio",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18828",
+		"comune": "Celpenchio",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18829",
+		"comune": "Comairano",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18830",
+		"comune": "Corbesate",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18831",
+		"comune": "Corpi Santi di Pavia",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18832",
+		"comune": "Donelasco",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18833",
+		"comune": "Fossarmato",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18834",
+		"comune": "Gerrechiozzo",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18835",
+		"comune": "Giovenzano",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18836",
+		"comune": "Goido",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18837",
+		"comune": "Gualdrasco",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18838",
+		"comune": "Guinzano",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18839",
+		"comune": "Liconasco",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18840",
+		"comune": "Mandrino",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18841",
+		"comune": "Mangialupo",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18842",
+		"comune": "Mezzano Parpanese",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18843",
+		"comune": "Mezzano Siccomario",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18844",
+		"comune": "Mirabello ed Uniti di Pavia",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18845",
+		"comune": "Misano Olona",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18846",
+		"comune": "Montebolognola",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18847",
+		"comune": "Monteleone sui Colli Pavesi",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18848",
+		"comune": "Montesano al Piano",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18849",
+		"comune": "Montù Berchielli",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18850",
+		"comune": "Motta San Damiano",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18851",
+		"comune": "Origioso",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18852",
+		"comune": "Pairana",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18853",
+		"comune": "Papiago",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18854",
+		"comune": "Pietra Gavina",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18855",
+		"comune": "Pissarello",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18856",
+		"comune": "Pizzocorno",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18857",
+		"comune": "Pometo",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18858",
+		"comune": "Pontecarate",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18859",
+		"comune": "Prado",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18860",
+		"comune": "Sagliano di Crenna",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18861",
+		"comune": "San Perone",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18862",
+		"comune": "San Ponzo Semola",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18863",
+		"comune": "San Varese",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18864",
+		"comune": "San Zeno e Foppa",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18865",
+		"comune": "Sant’Albano di Bobbio",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18866",
+		"comune": "Santa Margherita di Bobbio",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18867",
+		"comune": "Santa Margherita Po",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18868",
+		"comune": "Spirago",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18869",
+		"comune": "Staghiglione",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18870",
+		"comune": "Terrasa",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18871",
+		"comune": "Torradello",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18872",
+		"comune": "Torre Beretti",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18873",
+		"comune": "Torre de' Torti",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18874",
+		"comune": "Torre del Mangano",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18875",
+		"comune": "Torre del Monte",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18876",
+		"comune": "Torriano",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18877",
+		"comune": "Torrino",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18878",
+		"comune": "Trebbiano Nizza",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18879",
+		"comune": "Trognano",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18880",
+		"comune": "Turago Bordone",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18881",
+		"comune": "Vaccarizza",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18882",
+		"comune": "Vairano Pavese",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18883",
+		"comune": "Verrua Siccomario",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18884",
+		"comune": "Vigalfo",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18885",
+		"comune": "Vigonzone",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18886",
+		"comune": "Villalunga",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18887",
+		"comune": "Villareggio",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18888",
+		"comune": "Vimanone",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18889",
+		"comune": "Vivente",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18890",
+		"comune": "Zavattarello Valverde",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18891",
+		"comune": "Zelata",
+		"provincia": "PV"
+	},
+	{
+		"istat": "18892",
+		"comune": "Zibido al Lambro",
+		"provincia": "PV"
+	},
+	{
+		"istat": "19801",
+		"comune": "Acqualunga Badona",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19802",
+		"comune": "Alfiano ed Uniti",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19803",
+		"comune": "Ardole San Marino",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19804",
+		"comune": "Bagnarolo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19805",
+		"comune": "Barbiselle",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19806",
+		"comune": "Barzaniga",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19807",
+		"comune": "Bettenesco",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19808",
+		"comune": "Binanuova",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19809",
+		"comune": "Bottaiano",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19810",
+		"comune": "Brancere",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19811",
+		"comune": "Breda Guazzona",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19812",
+		"comune": "Brolpasino",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19813",
+		"comune": "Ca' de' Bonavogli",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19814",
+		"comune": "Ca' de' Caggi",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19815",
+		"comune": "Ca' de' Corti",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19816",
+		"comune": "Ca' de' Quinzani",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19817",
+		"comune": "Ca' de' Sfondrati",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19818",
+		"comune": "Ca' de' Soresini",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19819",
+		"comune": "Ca' de' Staoli",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19820",
+		"comune": "Ca' de' Stefani",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19821",
+		"comune": "Canova del Morbasco",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19822",
+		"comune": "Canova Olzano",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19823",
+		"comune": "Cansero",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19824",
+		"comune": "Carpaneta con Dosimo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19825",
+		"comune": "Caruberto",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19826",
+		"comune": "Casale Cremasco",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19827",
+		"comune": "Casalorzo Geroldi",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19828",
+		"comune": "Casalsigone",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19829",
+		"comune": "Casanova d'Offredi",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19830",
+		"comune": "Cassine Gandine",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19831",
+		"comune": "Castelfranco d'Oglio",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19832",
+		"comune": "Castelnuovo Cremasco",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19833",
+		"comune": "Castelnuovo del Vescovo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19834",
+		"comune": "Castelnuovo del Zappa",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19835",
+		"comune": "Castelnuovo Gherardi",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19836",
+		"comune": "Castelponzone",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19837",
+		"comune": "Cava Tigozzi",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19838",
+		"comune": "Cavallara",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19839",
+		"comune": "Cella Dati",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19840",
+		"comune": "Cignone",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19841",
+		"comune": "Colombarolo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19842",
+		"comune": "Corpi Santi di Cremona",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19843",
+		"comune": "Corte Madama",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19844",
+		"comune": "Cortetano",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19845",
+		"comune": "Costa Sant'Abramo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19846",
+		"comune": "Credera",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19847",
+		"comune": "Dosso Baroardo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19848",
+		"comune": "Dosso de' Frati",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19849",
+		"comune": "Duemiglia",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19850",
+		"comune": "Farinate",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19851",
+		"comune": "Fengo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19852",
+		"comune": "Forcello",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19853",
+		"comune": "Fossa Guazzona",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19854",
+		"comune": "Fracchia",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19855",
+		"comune": "Gabbioneta",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19856",
+		"comune": "Gadesco",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19857",
+		"comune": "Gambina Barchetti",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19858",
+		"comune": "Gazzo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19859",
+		"comune": "Gradella",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19860",
+		"comune": "Grontorto",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19861",
+		"comune": "Isola Pescaroli",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19862",
+		"comune": "Isolello",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19863",
+		"comune": "Levata",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19864",
+		"comune": "Licengo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19865",
+		"comune": "Longardore",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19866",
+		"comune": "Luignano",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19867",
+		"comune": "Marzalengo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19868",
+		"comune": "Mirabello Ciria",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19869",
+		"comune": "Montanara",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19870",
+		"comune": "Monticelli Ripa d'Oglio",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19871",
+		"comune": "Nosadello",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19872",
+		"comune": "Ombriano",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19873",
+		"comune": "Ossalengo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19874",
+		"comune": "Ossolaro",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19875",
+		"comune": "Paderno Cremonese",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19876",
+		"comune": "Palvareto",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19877",
+		"comune": "Passarera",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19878",
+		"comune": "Persico",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19879",
+		"comune": "Pieve Delmona",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19880",
+		"comune": "Pieve San Maurizio",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19881",
+		"comune": "Pieve Terzagni",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19882",
+		"comune": "Polengo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19883",
+		"comune": "Pontirolo Capredoni",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19884",
+		"comune": "Porta Ombriano",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19885",
+		"comune": "Pozzaglio",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19886",
+		"comune": "Pozzo Baronzio",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19887",
+		"comune": "Prato Muzio",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19888",
+		"comune": "Quistro",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19889",
+		"comune": "Recorfano",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19890",
+		"comune": "Ripalta Nuova",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19891",
+		"comune": "Ripalta Vecchia",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19892",
+		"comune": "Romprezzagno",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19893",
+		"comune": "Ronca de' Golferami",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19894",
+		"comune": "Roncadello d'Adda",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19895",
+		"comune": "Rovereto",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19896",
+		"comune": "Rubbiano",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19897",
+		"comune": "San Bernardino",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19898",
+		"comune": "San Lorenzo Aroldo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19899",
+		"comune": "San Lorenzo de' Picenardi",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19900",
+		"comune": "San Lorenzo Guazzone",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19901",
+		"comune": "San Lorenzo Mondinari",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19902",
+		"comune": "San Martino in Beliseto",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19903",
+		"comune": "San Michele Cremasco",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19904",
+		"comune": "San Paolo Ripa d'Oglio",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19905",
+		"comune": "San Salvatore",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19906",
+		"comune": "San Sillo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19907",
+		"comune": "San Vito e Modesto",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19908",
+		"comune": "Santa Maria della Croce",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19909",
+		"comune": "Scannabue",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19910",
+		"comune": "Silvella",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19911",
+		"comune": "Solarolo del Persico",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19912",
+		"comune": "Solarolo Monasterolo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19913",
+		"comune": "Stilo de' Mariani",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19914",
+		"comune": "Torre d’Angiolini",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19915",
+		"comune": "Tredossi",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19916",
+		"comune": "Trezzolasco",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19917",
+		"comune": "Triburgo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19918",
+		"comune": "Vairano Cremasco",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19920",
+		"comune": "Vidiceto",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19921",
+		"comune": "Vidolasco",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19922",
+		"comune": "Vighizzolo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19923",
+		"comune": "Villa Rocca",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19924",
+		"comune": "Zanengo",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19925",
+		"comune": "Zappello",
+		"provincia": "CR"
+	},
+	{
+		"istat": "19926",
+		"comune": "Vho",
+		"provincia": "CR"
+	},
+	{
+		"istat": "20005",
+		"comune": "Borgoforte",
+		"provincia": "MN"
+	},
+	{
+		"istat": "20023",
+		"comune": "Felonica",
+		"provincia": "MN"
+	},
+	{
+		"istat": "20069",
+		"comune": "Virgilio",
+		"provincia": "MN"
+	},
+	{
+		"istat": "20801",
+		"comune": "Casalpoglio",
+		"provincia": "MN"
+	},
+	{
+		"istat": "21078",
+		"comune": "San Felice/St. Felix",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21090",
+		"comune": "Senale/U.L.Frau im Walde",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21801",
+		"comune": "Acereto/Ahornach",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21802",
+		"comune": "Albes/Albeins",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21803",
+		"comune": "Alliz/Allitz",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21804",
+		"comune": "Anterselva/Antholz",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21805",
+		"comune": "Burgusio/Burgeis",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21806",
+		"comune": "Caminata in Tures/Kematen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21807",
+		"comune": "Castelbello/Kastelbell",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21808",
+		"comune": "Casteldarne/Ehrenburg",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21809",
+		"comune": "Cauria/Gfrill",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21810",
+		"comune": "Cengles/Tschengls",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21811",
+		"comune": "Ceves/Tschöfs",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21812",
+		"comune": "Ciardes/Tschars",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21813",
+		"comune": "Clusio/Schleis",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21814",
+		"comune": "Coldrano/Goldrain",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21815",
+		"comune": "Colfosco/Colfosco",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21816",
+		"comune": "Colle in Casies/Pichl in Gsies",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21817",
+		"comune": "Colli in Pusteria/Pichlern",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21818",
+		"comune": "Colsano/Galsaun",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21819",
+		"comune": "Corti in Pusteria/Hofern",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21820",
+		"comune": "Corvara in Passiria/Rabenstein ",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21821",
+		"comune": "Corzes/Kortsch",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21822",
+		"comune": "Covelano/Göflan",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21823",
+		"comune": "Curon/Graun",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21824",
+		"comune": "Elle/Ellen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21825",
+		"comune": "Eores/Afers",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21826",
+		"comune": "Favogna di Sotto/Unterfennberg",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21827",
+		"comune": "Fleres/Pflersch",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21828",
+		"comune": "Foiana/Völlan",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21829",
+		"comune": "Fundres/Pfunders",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21830",
+		"comune": "Gries/Gries",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21831",
+		"comune": "Grimaldo/Greinwalden",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21832",
+		"comune": "Gudon/Gufidaun",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21833",
+		"comune": "Issengo/Issing",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21834",
+		"comune": "Lacinigo/Latschinig",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21835",
+		"comune": "Lappago/Lappach",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21836",
+		"comune": "Laudes/Laatsch",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21837",
+		"comune": "Lazfons/Latzfons",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21838",
+		"comune": "Longiarù/Campill",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21839",
+		"comune": "Lutago/Luttach",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21840",
+		"comune": "Magrè/Margreid",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21841",
+		"comune": "Maia Alta/Obermais",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21842",
+		"comune": "Maia Bassa/Untermais",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21843",
+		"comune": "Mallas/Mals",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21844",
+		"comune": "Mantana/Monthal",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21845",
+		"comune": "Maranza/Meransen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21846",
+		"comune": "Mareta/Mareit",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21847",
+		"comune": "Mazia/Matsch",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21848",
+		"comune": "Millan-Sarnes/Milland-Sarns",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21849",
+		"comune": "Molini di Tures/Mühlen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21850",
+		"comune": "Monghezzo di Fuori/Getzenberg",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21851",
+		"comune": "Montassilone/Tesselberg",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21852",
+		"comune": "Monte di Mezzodì/Sonnenberg",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21853",
+		"comune": "Monte di Tramontana/Nördersberg",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21854",
+		"comune": "Monte San Candido/Innichberg",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21855",
+		"comune": "Montechiaro/Lichtenberg",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21856",
+		"comune": "Montefontana/Tomberg",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21857",
+		"comune": "Monteponente/Pfeffersberg",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21858",
+		"comune": "Morter/Morter",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21859",
+		"comune": "Mules/Mauls",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21860",
+		"comune": "Naz/Natz",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21861",
+		"comune": "Novacella/Neustift",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21862",
+		"comune": "Onies/Onach",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21863",
+		"comune": "Oris/Eyrs",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21864",
+		"comune": "Planol/Planeil",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21865",
+		"comune": "Plata/Platt",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21866",
+		"comune": "Prati/Wiesen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21867",
+		"comune": "Prato alla Drava/Winnebach",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21868",
+		"comune": "Prato di Venosta/Prad",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21869",
+		"comune": "Quarazze/Gratsch",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21870",
+		"comune": "Rasun di Sopra/Oberrasen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21871",
+		"comune": "Rasun di Sotto/Niederrasen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21872",
+		"comune": "Rasun Valdaora/Rasen Olang",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21873",
+		"comune": "Resia/Reschen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21874",
+		"comune": "Ridanna/Riednaun",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21875",
+		"comune": "Rina/Welschellen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21876",
+		"comune": "Riomolino/Mühlbach",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21877",
+		"comune": "Riscone/Reischach",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21878",
+		"comune": "Riva di Tures/Rain",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21879",
+		"comune": "San Valentino alla Mutta/St. Valentin auf der Haide",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21881",
+		"comune": "San Giacomo/St. Jakob in Ahrn",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21882",
+		"comune": "San Giorgio/St. Georgen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21883",
+		"comune": "San Giovanni/St. Johann in Ahrn",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21884",
+		"comune": "San Leonardo/St. Leonhard",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21885",
+		"comune": "San Lugano/St. Lugano",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21886",
+		"comune": "San Martino al Monte/St. Martin am Vorberg",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21887",
+		"comune": "San Martino in Casies/St. Martin in Gsies",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21888",
+		"comune": "San Pietro/St. Peter in Ahrn",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21889",
+		"comune": "San Sigismondo/St. Sigmund",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21890",
+		"comune": "San Valentino al Brennero/Brenner",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21891",
+		"comune": "Sant'Andrea in Monte/St. Andrä",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21892",
+		"comune": "Santa Maddalena in Casies/St. Magdalena in Gsies",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21893",
+		"comune": "Scaleres/Schalders",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21894",
+		"comune": "Sciaves/Schabs",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21896",
+		"comune": "Slingia/Schlinig",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21897",
+		"comune": "Spinga/Spinges",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21898",
+		"comune": "Stava/Staben",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21899",
+		"comune": "Stilves/Stilfes",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21900",
+		"comune": "Tablà/Tabland",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21901",
+		"comune": "Tanas/Tannas",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21902",
+		"comune": "Tarces/Tartsch",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21903",
+		"comune": "Tarres/Tarsch",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21904",
+		"comune": "Telves/Telfes",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21905",
+		"comune": "Teodone/Dietenheim",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21906",
+		"comune": "Tesido/Taisten",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21907",
+		"comune": "Tiso/Teis",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21908",
+		"comune": "Trens/Trens",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21909",
+		"comune": "Tunes/Thuins",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21910",
+		"comune": "Valas/Flaas",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21911",
+		"comune": "Valgiovo/Jaufenthal",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21912",
+		"comune": "Vallarga/Weitental",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21913",
+		"comune": "Valle San Silvestro/Wahlen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21914",
+		"comune": "Vallelunga/Langtaufers",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21915",
+		"comune": "Valles/Vals",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21916",
+		"comune": "Vandoies di Sopra/Obervintl",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21917",
+		"comune": "Vandoies di Sotto/Niedervintl",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21918",
+		"comune": "Vanga/Wangen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21920",
+		"comune": "Vezzano/Vezzan",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21921",
+		"comune": "Villa Ottone/Uttenhein",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21922",
+		"comune": "Villa Santa Caterina/Aufhofen",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21923",
+		"comune": "Vizze/Pfitsch",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "21924",
+		"comune": "Versciaco/Vierschach",
+		"provincia": "BZ"
+	},
+	{
+		"istat": "22004",
+		"comune": "Amblar",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22008",
+		"comune": "Banco",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22010",
+		"comune": "Baselga di Vezzano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22012",
+		"comune": "Bersone",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22014",
+		"comune": "Bezzecca",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22016",
+		"comune": "Bleggio Inferiore",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22019",
+		"comune": "Bolbeno",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22020",
+		"comune": "Bondo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22023",
+		"comune": "Bosentino",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22024",
+		"comune": "Breguzzo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22028",
+		"comune": "Brione",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22031",
+		"comune": "Calavino",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22044",
+		"comune": "Casez",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22055",
+		"comune": "Cembra",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22056",
+		"comune": "Centa San Nicolò",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22057",
+		"comune": "Cimego",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22065",
+		"comune": "Concei",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22066",
+		"comune": "Condino",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22067",
+		"comune": "Coredo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22069",
+		"comune": "Cunevo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22072",
+		"comune": "Daone",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22073",
+		"comune": "Darè",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22075",
+		"comune": "Dimaro",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22076",
+		"comune": "Don",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22077",
+		"comune": "Dorsino",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22082",
+		"comune": "Faver",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22084",
+		"comune": "Fiera di Primiero",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22086",
+		"comune": "Flavon",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22094",
+		"comune": "Grauno",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22096",
+		"comune": "Grumes",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22099",
+		"comune": "Ivano-Fracena",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22100",
+		"comune": "Lardaro",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22101",
+		"comune": "Lasino",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22105",
+		"comune": "Lisignago",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22107",
+		"comune": "Lomaso",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22119",
+		"comune": "Molina di Ledro",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22121",
+		"comune": "Monclassico",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22122",
+		"comune": "Montagne",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22125",
+		"comune": "Nanno",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22132",
+		"comune": "Padergnone",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22140",
+		"comune": "Pieve di Bono",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22141",
+		"comune": "Pieve di Ledro",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22146",
+		"comune": "Praso",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22148",
+		"comune": "Preore",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22149",
+		"comune": "Prezzo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22151",
+		"comune": "Ragoli",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22158",
+		"comune": "Roncone",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22166",
+		"comune": "San Lorenzo in Banale",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22174",
+		"comune": "Siror",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22175",
+		"comune": "Smarano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22178",
+		"comune": "Spera",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22185",
+		"comune": "Strigno",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22186",
+		"comune": "Taio",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22187",
+		"comune": "Tassullo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22192",
+		"comune": "Terlago",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22194",
+		"comune": "Terres",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22197",
+		"comune": "Tiarno di Sopra",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22198",
+		"comune": "Tiarno di Sotto",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22201",
+		"comune": "Tonadico",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22204",
+		"comune": "Transacqua",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22206",
+		"comune": "Tres",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22207",
+		"comune": "Tuenno",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22208",
+		"comune": "Valda",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22212",
+		"comune": "Vattaro",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22214",
+		"comune": "Vervò",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22215",
+		"comune": "Vezzano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22218",
+		"comune": "Vigolo Baselga",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22219",
+		"comune": "Vigolo Vattaro",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22220",
+		"comune": "Vigo Rendena",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22221",
+		"comune": "Villa Agnedo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22223",
+		"comune": "Villa Rendena",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22227",
+		"comune": "Zuclo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22801",
+		"comune": "Agrone",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22802",
+		"comune": "Almazzago",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22803",
+		"comune": "Andogno",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22804",
+		"comune": "Arnago",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22805",
+		"comune": "Beseno",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22806",
+		"comune": "Biacesa",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22807",
+		"comune": "Bleggio",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22808",
+		"comune": "Bolentina",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22809",
+		"comune": "Bondo Breguzzo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22810",
+		"comune": "Borghetto",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22811",
+		"comune": "Borzago",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22812",
+		"comune": "Bozzana",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22813",
+		"comune": "Cadine",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22814",
+		"comune": "Celledizzo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22815",
+		"comune": "Campo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22816",
+		"comune": "Canezza",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22817",
+		"comune": "Carciato",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22818",
+		"comune": "Castagnè",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22819",
+		"comune": "Castellano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22820",
+		"comune": "Castello",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22821",
+		"comune": "Celentino",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22822",
+		"comune": "Chienis",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22823",
+		"comune": "Chizzola",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22824",
+		"comune": "Ciago",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22825",
+		"comune": "Cognola",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22826",
+		"comune": "Cogolo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22827",
+		"comune": "Cologna in Giudicarie",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22828",
+		"comune": "Cologna-Gavazzo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22829",
+		"comune": "Comano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22830",
+		"comune": "Comasine",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22831",
+		"comune": "Costasavina",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22832",
+		"comune": "Covelo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22833",
+		"comune": "Creto",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22834",
+		"comune": "Dardine",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22835",
+		"comune": "Darzo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22836",
+		"comune": "Deggiano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22837",
+		"comune": "Dercolo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22838",
+		"comune": "Dermulo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22839",
+		"comune": "Enguiso",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22840",
+		"comune": "Falesina",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22841",
+		"comune": "Fisto",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22842",
+		"comune": "Forno",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22843",
+		"comune": "Fraveggio",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22844",
+		"comune": "Gardolo al Piano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22845",
+		"comune": "Grumo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22846",
+		"comune": "Iavrè",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22847",
+		"comune": "Ischia",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22848",
+		"comune": "Legos",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22849",
+		"comune": "Lenzima",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22850",
+		"comune": "Lenzumo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22851",
+		"comune": "Lizzana",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22852",
+		"comune": "Locca",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22853",
+		"comune": "Lodrone",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22854",
+		"comune": "Lon",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22855",
+		"comune": "Lover",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22856",
+		"comune": "Lundo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22857",
+		"comune": "Madrano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22858",
+		"comune": "Madruzzo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22859",
+		"comune": "Magras",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22860",
+		"comune": "Malgolo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22861",
+		"comune": "Manzano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22862",
+		"comune": "Marano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22863",
+		"comune": "Marco",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22864",
+		"comune": "Margone",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22865",
+		"comune": "Masi di Vigo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22866",
+		"comune": "Mastellina",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22867",
+		"comune": "Mattarello",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22868",
+		"comune": "Meano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22869",
+		"comune": "Mechel",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22870",
+		"comune": "Mestriago",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22871",
+		"comune": "Mezzano Imer",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22872",
+		"comune": "Mezzolago",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22873",
+		"comune": "Miola",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22874",
+		"comune": "Mollaro",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22875",
+		"comune": "Montes",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22876",
+		"comune": "Mortaso",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22877",
+		"comune": "Noarna",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22878",
+		"comune": "Nogarè",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22879",
+		"comune": "Nomesino",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22880",
+		"comune": "Noriglio",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22881",
+		"comune": "Oltresarca",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22882",
+		"comune": "Patone",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22883",
+		"comune": "Pederzano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22884",
+		"comune": "Perra",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22885",
+		"comune": "Piano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22886",
+		"comune": "Pilcante",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22887",
+		"comune": "Por",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22888",
+		"comune": "Povo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22889",
+		"comune": "Pranzo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22890",
+		"comune": "Prè",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22891",
+		"comune": "Pregasina",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22892",
+		"comune": "Preghena",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22893",
+		"comune": "Premione",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22894",
+		"comune": "Presson",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22895",
+		"comune": "Primiero",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22896",
+		"comune": "Priò",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22897",
+		"comune": "Quetta",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22898",
+		"comune": "Ranzo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22899",
+		"comune": "Ravina",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22900",
+		"comune": "Reviano Folas",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22901",
+		"comune": "Romagnano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22902",
+		"comune": "Romarzolo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22903",
+		"comune": "Roncogno",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22904",
+		"comune": "Ronzo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22905",
+		"comune": "Rover Carbonare",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22906",
+		"comune": "Samoclevo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22907",
+		"comune": "San Giacomo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22908",
+		"comune": "Santa Margherita",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22909",
+		"comune": "Saone",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22910",
+		"comune": "Sardagna",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22911",
+		"comune": "Sasso",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22912",
+		"comune": "Scelmo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22913",
+		"comune": "Segno",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22914",
+		"comune": "Seio",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22915",
+		"comune": "Seo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22916",
+		"comune": "Serravalle all’Adige",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22917",
+		"comune": "Serso",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22918",
+		"comune": "Sevignano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22919",
+		"comune": "Sopramonte",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22920",
+		"comune": "Strada",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22921",
+		"comune": "Stramentizzo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22922",
+		"comune": "Stumiaga",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22923",
+		"comune": "Susà",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22924",
+		"comune": "Tavodo",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22925",
+		"comune": "Tavon",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22926",
+		"comune": "Termenago",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22927",
+		"comune": "Termon",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22928",
+		"comune": "Tiarno",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22929",
+		"comune": "Torra",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22930",
+		"comune": "Toss",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22931",
+		"comune": "Tuenetto",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22932",
+		"comune": "Valle San Felice",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22933",
+		"comune": "Vasio",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22934",
+		"comune": "Verdesina",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22935",
+		"comune": "Viarago",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22936",
+		"comune": "Vigalzano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22937",
+		"comune": "Vignola",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22938",
+		"comune": "Vigo d’Anaunia",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22939",
+		"comune": "Villa Banale",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22940",
+		"comune": "Villazzano",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22941",
+		"comune": "Ville del Monte",
+		"provincia": "TN"
+	},
+	{
+		"istat": "22942",
+		"comune": "Vion",
+		"provincia": "TN"
+	},
+	{
+		"istat": "23801",
+		"comune": "Avesa",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23802",
+		"comune": "Belluno Veronese",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23803",
+		"comune": "Bevilacqua-Boschi",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23804",
+		"comune": "Brentino",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23805",
+		"comune": "Breonio",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23806",
+		"comune": "Ca' di David",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23807",
+		"comune": "Castione Veronese",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23808",
+		"comune": "Correzzo",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23809",
+		"comune": "Marcellise",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23810",
+		"comune": "Mizzole",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23811",
+		"comune": "Montorio Veronese",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23812",
+		"comune": "Negarine",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23813",
+		"comune": "Parona di Valpolicella",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23814",
+		"comune": "Prun",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23815",
+		"comune": "Quinto di Valpantena",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23816",
+		"comune": "Quinzano Veronese",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23817",
+		"comune": "San Massimo all'Adige",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23818",
+		"comune": "San Michele Extra",
+		"provincia": "VR"
+	},
+	{
+		"istat": "23819",
+		"comune": "Santa Maria in Stelle",
+		"provincia": "VR"
+	},
+	{
+		"istat": "24045",
+		"comune": "Grancona",
+		"provincia": "VI"
+	},
+	{
+		"istat": "24092",
+		"comune": "San Germano dei Berici",
+		"provincia": "VI"
+	},
+	{
+		"istat": "24109",
+		"comune": "Tretto",
+		"provincia": "VI"
+	},
+	{
+		"istat": "24801",
+		"comune": "Casotto",
+		"provincia": "VI"
+	},
+	{
+		"istat": "24802",
+		"comune": "Crosara",
+		"provincia": "VI"
+	},
+	{
+		"istat": "24803",
+		"comune": "Forni di Val d'Astico",
+		"provincia": "VI"
+	},
+	{
+		"istat": "24804",
+		"comune": "Magrè Vicentino",
+		"provincia": "VI"
+	},
+	{
+		"istat": "24805",
+		"comune": "Novale",
+		"provincia": "VI"
+	},
+	{
+		"istat": "24806",
+		"comune": "Treschè Conca",
+		"provincia": "VI"
+	},
+	{
+		"istat": "24807",
+		"comune": "Vallonara",
+		"provincia": "VI"
+	},
+	{
+		"istat": "24808",
+		"comune": "Valrovina",
+		"provincia": "VI"
+	},
+	{
+		"istat": "25009",
+		"comune": "Castellavazzo",
+		"provincia": "BL"
+	},
+	{
+		"istat": "25020",
+		"comune": "Farra d'Alpago",
+		"provincia": "BL"
+	},
+	{
+		"istat": "25024",
+		"comune": "Forno di Zoldo",
+		"provincia": "BL"
+	},
+	{
+		"istat": "25031",
+		"comune": "Longarone",
+		"provincia": "BL"
+	},
+	{
+		"istat": "25038",
+		"comune": "Pieve d'Alpago",
+		"provincia": "BL"
+	},
+	{
+		"istat": "25041",
+		"comune": "Puos d'Alpago",
+		"provincia": "BL"
+	},
+	{
+		"istat": "25042",
+		"comune": "Quero",
+		"provincia": "BL"
+	},
+	{
+		"istat": "25064",
+		"comune": "Vas",
+		"provincia": "BL"
+	},
+	{
+		"istat": "25068",
+		"comune": "Zoldo Alto",
+		"provincia": "BL"
+	},
+	{
+		"istat": "26801",
+		"comune": "Ceneda",
+		"provincia": "TV"
+	},
+	{
+		"istat": "26802",
+		"comune": "Piavon",
+		"provincia": "TV"
+	},
+	{
+		"istat": "26803",
+		"comune": "Revine",
+		"provincia": "TV"
+	},
+	{
+		"istat": "26804",
+		"comune": "San Giorgio di Lago",
+		"provincia": "TV"
+	},
+	{
+		"istat": "26805",
+		"comune": "San Pietro di Barbozza",
+		"provincia": "TV"
+	},
+	{
+		"istat": "26806",
+		"comune": "Sant’Andrea di Cavasagra",
+		"provincia": "TV"
+	},
+	{
+		"istat": "26807",
+		"comune": "Serravalle",
+		"provincia": "TV"
+	},
+	{
+		"istat": "26808",
+		"comune": "Spercenigo",
+		"provincia": "TV"
+	},
+	{
+		"istat": "27801",
+		"comune": "Burano",
+		"provincia": "VE"
+	},
+	{
+		"istat": "27802",
+		"comune": "Chirignago",
+		"provincia": "VE"
+	},
+	{
+		"istat": "27803",
+		"comune": "Favaro Veneto",
+		"provincia": "VE"
+	},
+	{
+		"istat": "27804",
+		"comune": "Malamocco",
+		"provincia": "VE"
+	},
+	{
+		"istat": "27805",
+		"comune": "Mestre",
+		"provincia": "VE"
+	},
+	{
+		"istat": "27806",
+		"comune": "Murano",
+		"provincia": "VE"
+	},
+	{
+		"istat": "27807",
+		"comune": "Pellestrina",
+		"provincia": "VE"
+	},
+	{
+		"istat": "27808",
+		"comune": "Zelarino",
+		"provincia": "VE"
+	},
+	{
+		"istat": "27809",
+		"comune": "Gambarare",
+		"provincia": "VE"
+	},
+	{
+		"istat": "27810",
+		"comune": "Oriago",
+		"provincia": "VE"
+	},
+	{
+		"istat": "28024",
+		"comune": "Carrara San Giorgio",
+		"provincia": "PD"
+	},
+	{
+		"istat": "28025",
+		"comune": "Carrara Santo Stefano",
+		"provincia": "PD"
+	},
+	{
+		"istat": "28801",
+		"comune": "San Michele delle Badesse",
+		"provincia": "PD"
+	},
+	{
+		"istat": "29016",
+		"comune": "Contarina",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29020",
+		"comune": "Donada",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29801",
+		"comune": "Bellombra",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29802",
+		"comune": "Boara Polesine",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29803",
+		"comune": "Borsea",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29804",
+		"comune": "Bottrighe",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29805",
+		"comune": "Buso Sarzano",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29806",
+		"comune": "Ca' Emo",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29807",
+		"comune": "Concadirame",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29808",
+		"comune": "Crocetta",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29809",
+		"comune": "Grignano di Polesine",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29810",
+		"comune": "Massa Superiore",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29811",
+		"comune": "Ramo di Palo",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29812",
+		"comune": "Salvaterra",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29813",
+		"comune": "Sant’Apollinare con Selva",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29814",
+		"comune": "Villa d’Adige",
+		"provincia": "RO"
+	},
+	{
+		"istat": "29815",
+		"comune": "Saguedo",
+		"provincia": "RO"
+	},
+	{
+		"istat": "30017",
+		"comune": "Campolongo al Torre",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30096",
+		"comune": "Rivignano",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30115",
+		"comune": "Tapogliano",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30119",
+		"comune": "Teor",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30801",
+		"comune": "Camporosso in Valcanale",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30802",
+		"comune": "Castel del Monte Udinese",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30803",
+		"comune": "Cesclans",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30804",
+		"comune": "Ciseriis",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30805",
+		"comune": "Feletto Umberto",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30806",
+		"comune": "Fusine in Valromana",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30807",
+		"comune": "Ioannis",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30808",
+		"comune": "Ipplis",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30809",
+		"comune": "Laglesie San Leopoldo",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30810",
+		"comune": "Malborghetto",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30811",
+		"comune": "Mione",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30812",
+		"comune": "Muscoli Strassoldo",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30813",
+		"comune": "Perteole",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30814",
+		"comune": "Pontebba Nova",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30815",
+		"comune": "Raccolana",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30816",
+		"comune": "Rivolto",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30817",
+		"comune": "Rodda",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30818",
+		"comune": "Scodovacca",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30819",
+		"comune": "Segnacco",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30820",
+		"comune": "Tarcetta",
+		"provincia": "UD"
+	},
+	{
+		"istat": "30821",
+		"comune": "Ugovizza Valbruna",
+		"provincia": "UD"
+	},
+	{
+		"istat": "31701",
+		"comune": "Aidussina",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31702",
+		"comune": "Bergogna",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31703",
+		"comune": "Cal di Canale",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31704",
+		"comune": "Canale d'Isonzo",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31705",
+		"comune": "Caporetto",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31706",
+		"comune": "Castel Dobra",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31707",
+		"comune": "Cernizza Goriziana",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31708",
+		"comune": "Chiapovano",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31709",
+		"comune": "Circhina",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31710",
+		"comune": "Comeno",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31711",
+		"comune": "Gargaro",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31712",
+		"comune": "Gracova Serravalle",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31713",
+		"comune": "Idria",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31714",
+		"comune": "Merna",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31715",
+		"comune": "Montenero d'Idria",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31716",
+		"comune": "Montespino",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31717",
+		"comune": "Opacchiasella",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31718",
+		"comune": "Plezzo",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31719",
+		"comune": "Ranziano",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31720",
+		"comune": "Rifembergo",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31721",
+		"comune": "Salona d'Isonzo",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31722",
+		"comune": "Sambasso",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31723",
+		"comune": "San Daniele del Carso",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31724",
+		"comune": "San Martino Quisca",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31725",
+		"comune": "San Vito di Vipacco",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31726",
+		"comune": "Santa Croce di Aidussina",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31727",
+		"comune": "Santa Lucia d'Isonzo",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31728",
+		"comune": "Sonzia",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31729",
+		"comune": "Tarnova della Selva",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31730",
+		"comune": "Temenizza",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31731",
+		"comune": "Tolmino",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31732",
+		"comune": "Vipacco",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31733",
+		"comune": "Zolla",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31801",
+		"comune": "Brazzano",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31802",
+		"comune": "Corona",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31803",
+		"comune": "Cosbana nel Collio",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31804",
+		"comune": "Lucinico",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31805",
+		"comune": "Piedimonte del Calvario",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31806",
+		"comune": "Romans",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31807",
+		"comune": "Salcano",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31808",
+		"comune": "San Pietro di Gorizia",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31809",
+		"comune": "Sant’Andrea di Gorizia",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31810",
+		"comune": "Versa",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31811",
+		"comune": "Vertoiba in Campi Santi",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31812",
+		"comune": "Aiba",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31813",
+		"comune": "Anicova Corada",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31814",
+		"comune": "Auzza",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31815",
+		"comune": "Battaglia della Bainsizza",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31816",
+		"comune": "Biglia",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31817",
+		"comune": "Bigliana",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31818",
+		"comune": "Boriano",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31819",
+		"comune": "Brestovizza in Valle",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31820",
+		"comune": "Bretto",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31821",
+		"comune": "Budagne",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31822",
+		"comune": "Camigna",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31823",
+		"comune": "Ceconico",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31824",
+		"comune": "Cobbia",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31825",
+		"comune": "Creda",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31826",
+		"comune": "Descla",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31827",
+		"comune": "Dole",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31828",
+		"comune": "Dol Grande",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31829",
+		"comune": "Dol-Ottelza",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31830",
+		"comune": "Dresenza",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31831",
+		"comune": "Ersel in Monte",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31832",
+		"comune": "Gabria",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31833",
+		"comune": "Gabrovizza",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31834",
+		"comune": "Godovici",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31835",
+		"comune": "Goiaci",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31836",
+		"comune": "Goriano",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31837",
+		"comune": "Gozza",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31838",
+		"comune": "Idresca d'Isonzo",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31839",
+		"comune": "Idria di Sotto",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31840",
+		"comune": "Ledine",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31841",
+		"comune": "Libussina",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31842",
+		"comune": "Locavizza di Aidussina",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31843",
+		"comune": "Locavizza di Canale",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31844",
+		"comune": "Lose",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31845",
+		"comune": "Luico",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31846",
+		"comune": "Medana",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31847",
+		"comune": "Monte San Vito",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31848",
+		"comune": "Monte Urabice",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31849",
+		"comune": "Oltresonzia",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31850",
+		"comune": "Ossecca Vittuglia",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31851",
+		"comune": "Ossegliano San Michele",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31852",
+		"comune": "Paniqua",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31853",
+		"comune": "Planina",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31854",
+		"comune": "Pliscovizza della Madonna",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31855",
+		"comune": "Pocrai del Piro",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31856",
+		"comune": "Podraga",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31857",
+		"comune": "Prevacina",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31858",
+		"comune": "Ronzina",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31859",
+		"comune": "Sable Grande",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31860",
+		"comune": "Saga",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31861",
+		"comune": "Samaria",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31862",
+		"comune": "Santo Spirito della Bainsizza",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31863",
+		"comune": "Scherbina",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31864",
+		"comune": "Scrilla",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31865",
+		"comune": "Sebreghe",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31866",
+		"comune": "Sedula",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31867",
+		"comune": "Sella delle Trincee",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31868",
+		"comune": "Serpenizza",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31869",
+		"comune": "Slappe Zorzi",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31870",
+		"comune": "Sturia delle Fusine",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31871",
+		"comune": "Ternova d'Isonzo",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31872",
+		"comune": "Trenta d'Isonzo",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31873",
+		"comune": "Tribussa",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31874",
+		"comune": "Ustie",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31875",
+		"comune": "Verpogliano",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31876",
+		"comune": "Vertovino",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31877",
+		"comune": "Ville Montevecchio",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31878",
+		"comune": "Voissizza di Comeno",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31879",
+		"comune": "Volzana",
+		"provincia": "GO"
+	},
+	{
+		"istat": "31880",
+		"comune": "Voschia",
+		"provincia": "GO"
+	},
+	{
+		"istat": "32701",
+		"comune": "Bucuie",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32702",
+		"comune": "Cave Auremiane",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32703",
+		"comune": "Corgnale",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32704",
+		"comune": "Cossana",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32705",
+		"comune": "Crenovizza",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32706",
+		"comune": "Divaccia Grotte del Timavo",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32707",
+		"comune": "Duttogliano",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32708",
+		"comune": "Postumia Grotte",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32709",
+		"comune": "San Giacomo in Colle",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32710",
+		"comune": "San Michele di Postumia",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32711",
+		"comune": "San Pietro del Carso",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32712",
+		"comune": "Senosecchia",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32713",
+		"comune": "Sesana",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32714",
+		"comune": "Tomadio",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32715",
+		"comune": "Villa Slavina",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32801",
+		"comune": "Aurisina",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32802",
+		"comune": "Duino",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32803",
+		"comune": "Malchina",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32804",
+		"comune": "San Pelagio",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32805",
+		"comune": "Slivia",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32806",
+		"comune": "Alber di Sesana",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32807",
+		"comune": "Auremo di Sopra",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32808",
+		"comune": "Caccia",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32809",
+		"comune": "Capriva nel Carso",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32810",
+		"comune": "Famie",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32811",
+		"comune": "Lase",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32812",
+		"comune": "Poverio",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32813",
+		"comune": "Roditti",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32814",
+		"comune": "Scoppo",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32815",
+		"comune": "Senadole",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32816",
+		"comune": "Storie",
+		"provincia": "TS"
+	},
+	{
+		"istat": "32817",
+		"comune": "Villabassa di Senosecchia",
+		"provincia": "TS"
+	},
+	{
+		"istat": "33801",
+		"comune": "Borgo San Bernardino",
+		"provincia": "PC"
+	},
+	{
+		"istat": "33802",
+		"comune": "Mortizza",
+		"provincia": "PC"
+	},
+	{
+		"istat": "33803",
+		"comune": "San Lazzaro Alberoni",
+		"provincia": "PC"
+	},
+	{
+		"istat": "33804",
+		"comune": "Sant’Antonio a Trebbia",
+		"provincia": "PC"
+	},
+	{
+		"istat": "33805",
+		"comune": "Trebecco",
+		"provincia": "PC"
+	},
+	{
+		"istat": "34029",
+		"comune": "Polesine Parmense",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34034",
+		"comune": "Sissa",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34043",
+		"comune": "Trecasali",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34048",
+		"comune": "Zibello",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34801",
+		"comune": "Boccolo de' Tassi",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34802",
+		"comune": "Cortile San Martino",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34803",
+		"comune": "Golese",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34804",
+		"comune": "Marore",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34805",
+		"comune": "Pione",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34806",
+		"comune": "San Donato d'Enza",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34807",
+		"comune": "San Lazzaro Parmense",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34808",
+		"comune": "San Martino Sinzano",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34809",
+		"comune": "San Pancrazio Parmense",
+		"provincia": "PR"
+	},
+	{
+		"istat": "34810",
+		"comune": "Vigatto",
+		"provincia": "PR"
+	},
+	{
+		"istat": "35007",
+		"comune": "Busana",
+		"provincia": "RE"
+	},
+	{
+		"istat": "35019",
+		"comune": "Collagna",
+		"provincia": "RE"
+	},
+	{
+		"istat": "35025",
+		"comune": "Ligonchio",
+		"provincia": "RE"
+	},
+	{
+		"istat": "35031",
+		"comune": "Ramiseto",
+		"provincia": "RE"
+	},
+	{
+		"istat": "35801",
+		"comune": "Gazzano",
+		"provincia": "RE"
+	},
+	{
+		"istat": "37004",
+		"comune": "Bazzano",
+		"provincia": "BO"
+	},
+	{
+		"istat": "37018",
+		"comune": "Castello di Serravalle",
+		"provincia": "BO"
+	},
+	{
+		"istat": "37023",
+		"comune": "Crespellano",
+		"provincia": "BO"
+	},
+	{
+		"istat": "37029",
+		"comune": "Granaglione",
+		"provincia": "BO"
+	},
+	{
+		"istat": "37043",
+		"comune": "Monteveglio",
+		"provincia": "BO"
+	},
+	{
+		"istat": "37049",
+		"comune": "Porretta Terme",
+		"provincia": "BO"
+	},
+	{
+		"istat": "37058",
+		"comune": "Savigno",
+		"provincia": "BO"
+	},
+	{
+		"istat": "37801",
+		"comune": "Borgo Panigale",
+		"provincia": "BO"
+	},
+	{
+		"istat": "37802",
+		"comune": "Musiano",
+		"provincia": "BO"
+	},
+	{
+		"istat": "38013",
+		"comune": "Massa Fiscaglia",
+		"provincia": "FE"
+	},
+	{
+		"istat": "38015",
+		"comune": "Migliarino",
+		"provincia": "FE"
+	},
+	{
+		"istat": "38016",
+		"comune": "Mirabello",
+		"provincia": "FE"
+	},
+	{
+		"istat": "38021",
+		"comune": "Sant'Agostino",
+		"provincia": "FE"
+	},
+	{
+		"istat": "38026",
+		"comune": "Migliaro",
+		"provincia": "FE"
+	},
+	{
+		"istat": "40801",
+		"comune": "Fiumana",
+		"provincia": "FC"
+	},
+	{
+		"istat": "40802",
+		"comune": "Mortano",
+		"provincia": "FC"
+	},
+	{
+		"istat": "40803",
+		"comune": "Roversano",
+		"provincia": "FC"
+	},
+	{
+		"istat": "40804",
+		"comune": "Sorbano",
+		"provincia": "FC"
+	},
+	{
+		"istat": "40805",
+		"comune": "Teodorano",
+		"provincia": "FC"
+	},
+	{
+		"istat": "41004",
+		"comune": "Barchi",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41012",
+		"comune": "Colbordolo",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41037",
+		"comune": "Montemaggiore al Metauro",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41040",
+		"comune": "Orciano di Pesaro",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41046",
+		"comune": "Piagge",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41050",
+		"comune": "Saltara",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41052",
+		"comune": "San Giorgio di Pesaro",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41056",
+		"comune": "Sant'Angelo in Lizzola",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41062",
+		"comune": "Serrungarina",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41801",
+		"comune": "Candelara",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41802",
+		"comune": "Casteldimezzo",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41803",
+		"comune": "Fenigli",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41804",
+		"comune": "Fiorenzuola di Focara",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41805",
+		"comune": "Ginestreto",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41806",
+		"comune": "Isola di Fano",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41807",
+		"comune": "Montalfoglio",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41808",
+		"comune": "Montalto Tarugo",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41809",
+		"comune": "Monte Montanaro",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41810",
+		"comune": "Montebello Metaurense",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41811",
+		"comune": "Montefabbri",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41812",
+		"comune": "Monteguiduccio",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41813",
+		"comune": "Monterolo",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41814",
+		"comune": "Montesecco Antico",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41815",
+		"comune": "Montevecchio",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41816",
+		"comune": "Novillara",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41817",
+		"comune": "Pozzo Alto",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41818",
+		"comune": "San Vito sul Cesano",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41819",
+		"comune": "Sant’Andrea di Suasa",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41820",
+		"comune": "Scavolino",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41821",
+		"comune": "Sorbolongo",
+		"provincia": "PU"
+	},
+	{
+		"istat": "41822",
+		"comune": "Torre San Marco",
+		"provincia": "PU"
+	},
+	{
+		"istat": "42009",
+		"comune": "Castel Colonna",
+		"provincia": "AN"
+	},
+	{
+		"istat": "42028",
+		"comune": "Monterado",
+		"provincia": "AN"
+	},
+	{
+		"istat": "42039",
+		"comune": "Ripe",
+		"provincia": "AN"
+	},
+	{
+		"istat": "42801",
+		"comune": "Montesicuro",
+		"provincia": "AN"
+	},
+	{
+		"istat": "42802",
+		"comune": "Paterno d'Ancona",
+		"provincia": "AN"
+	},
+	{
+		"istat": "42803",
+		"comune": "Rosora Mergo",
+		"provincia": "AN"
+	},
+	{
+		"istat": "43001",
+		"comune": "Acquacanina",
+		"provincia": "MC"
+	},
+	{
+		"istat": "43018",
+		"comune": "Fiordimonte",
+		"provincia": "MC"
+	},
+	{
+		"istat": "43037",
+		"comune": "Pievebovigliana",
+		"provincia": "MC"
+	},
+	{
+		"istat": "43801",
+		"comune": "Porto Civitanova",
+		"provincia": "MC"
+	},
+	{
+		"istat": "44801",
+		"comune": "Alteta",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44802",
+		"comune": "Capradosso",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44803",
+		"comune": "Castel di Croce",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44804",
+		"comune": "Lisciano del Tronto",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44805",
+		"comune": "Montacuto",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44806",
+		"comune": "Montadamo",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44807",
+		"comune": "Montecalvo del Castellano",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44808",
+		"comune": "Moregnano",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44809",
+		"comune": "Mozzano",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44810",
+		"comune": "Osoli",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44811",
+		"comune": "Pagliare",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44812",
+		"comune": "Patrignone",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44813",
+		"comune": "Porchia",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44814",
+		"comune": "Porchiano dell'Ascensione",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44815",
+		"comune": "Quintodecimo",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44816",
+		"comune": "Ripaberarda",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44817",
+		"comune": "Roccareonile",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44818",
+		"comune": "Sant’Elpidio Morico",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44819",
+		"comune": "Santa Maria del Tronto",
+		"provincia": "AP"
+	},
+	{
+		"istat": "44820",
+		"comune": "Torre di Palme",
+		"provincia": "AP"
+	},
+	{
+		"istat": "45801",
+		"comune": "Albiano di Magra",
+		"provincia": "MS"
+	},
+	{
+		"istat": "45802",
+		"comune": "Apuania",
+		"provincia": "MS"
+	},
+	{
+		"istat": "45803",
+		"comune": "Terrarossa",
+		"provincia": "MS"
+	},
+	{
+		"istat": "46012",
+		"comune": "Fabbriche di Vallico",
+		"provincia": "LU"
+	},
+	{
+		"istat": "46016",
+		"comune": "Giuncugnano",
+		"provincia": "LU"
+	},
+	{
+		"istat": "46029",
+		"comune": "Sillano",
+		"provincia": "LU"
+	},
+	{
+		"istat": "46032",
+		"comune": "Vergemoli",
+		"provincia": "LU"
+	},
+	{
+		"istat": "47001",
+		"comune": "Abetone",
+		"provincia": "PT"
+	},
+	{
+		"istat": "47004",
+		"comune": "Cutigliano",
+		"provincia": "PT"
+	},
+	{
+		"istat": "47015",
+		"comune": "Piteglio",
+		"provincia": "PT"
+	},
+	{
+		"istat": "47019",
+		"comune": "San Marcello Pistoiese",
+		"provincia": "PT"
+	},
+	{
+		"istat": "47801",
+		"comune": "Montecatini di Val di Nievole",
+		"provincia": "PT"
+	},
+	{
+		"istat": "47802",
+		"comune": "Porta al Borgo",
+		"provincia": "PT"
+	},
+	{
+		"istat": "47803",
+		"comune": "Porta Carratica",
+		"provincia": "PT"
+	},
+	{
+		"istat": "47804",
+		"comune": "Porta Lucchese",
+		"provincia": "PT"
+	},
+	{
+		"istat": "47805",
+		"comune": "Porta San Marco",
+		"provincia": "PT"
+	},
+	{
+		"istat": "47806",
+		"comune": "Vellano",
+		"provincia": "PT"
+	},
+	{
+		"istat": "48016",
+		"comune": "Figline Valdarno",
+		"provincia": "FI"
+	},
+	{
+		"istat": "48023",
+		"comune": "Incisa in Val d'Arno",
+		"provincia": "FI"
+	},
+	{
+		"istat": "48040",
+		"comune": "San Piero a Sieve",
+		"provincia": "FI"
+	},
+	{
+		"istat": "48042",
+		"comune": "Scarperia",
+		"provincia": "FI"
+	},
+	{
+		"istat": "48801",
+		"comune": "Brozzi",
+		"provincia": "FI"
+	},
+	{
+		"istat": "48802",
+		"comune": "Galluzzo",
+		"provincia": "FI"
+	},
+	{
+		"istat": "48803",
+		"comune": "Legnaia",
+		"provincia": "FI"
+	},
+	{
+		"istat": "48804",
+		"comune": "Pellegrino da Careggi",
+		"provincia": "FI"
+	},
+	{
+		"istat": "48805",
+		"comune": "Rovezzano",
+		"provincia": "FI"
+	},
+	{
+		"istat": "50007",
+		"comune": "Casciana Terme",
+		"provincia": "PI"
+	},
+	{
+		"istat": "50013",
+		"comune": "Crespina",
+		"provincia": "PI"
+	},
+	{
+		"istat": "50017",
+		"comune": "Lari",
+		"provincia": "PI"
+	},
+	{
+		"istat": "50018",
+		"comune": "Lorenzana",
+		"provincia": "PI"
+	},
+	{
+		"istat": "50801",
+		"comune": "Montecalvoli",
+		"provincia": "PI"
+	},
+	{
+		"istat": "50802",
+		"comune": "Santa Luce Orciano",
+		"provincia": "PI"
+	},
+	{
+		"istat": "51009",
+		"comune": "Castelfranco di Sopra",
+		"provincia": "AR"
+	},
+	{
+		"istat": "51029",
+		"comune": "Pian di Sco",
+		"provincia": "AR"
+	},
+	{
+		"istat": "51032",
+		"comune": "Pratovecchio",
+		"provincia": "AR"
+	},
+	{
+		"istat": "51036",
+		"comune": "Stia",
+		"provincia": "AR"
+	},
+	{
+		"istat": "51801",
+		"comune": "Castiglion Ubertini",
+		"provincia": "AR"
+	},
+	{
+		"istat": "51802",
+		"comune": "Pratovecchio Stia",
+		"provincia": "AR"
+	},
+	{
+		"istat": "51803",
+		"comune": "Raggiolo",
+		"provincia": "AR"
+	},
+	{
+		"istat": "52014",
+		"comune": "Montalcino",
+		"provincia": "SI"
+	},
+	{
+		"istat": "52029",
+		"comune": "San Giovanni d'Asso",
+		"provincia": "SI"
+	},
+	{
+		"istat": "52801",
+		"comune": "Masse di Città",
+		"provincia": "SI"
+	},
+	{
+		"istat": "52802",
+		"comune": "Masse di San Martino",
+		"provincia": "SI"
+	},
+	{
+		"istat": "52803",
+		"comune": "Masse di Siena",
+		"provincia": "SI"
+	},
+	{
+		"istat": "54801",
+		"comune": "Castel San Felice",
+		"provincia": "PG"
+	},
+	{
+		"istat": "54802",
+		"comune": "Castel San Giovanni di Spoleto",
+		"provincia": "PG"
+	},
+	{
+		"istat": "54803",
+		"comune": "Ceselli",
+		"provincia": "PG"
+	},
+	{
+		"istat": "54804",
+		"comune": "Collemancio",
+		"provincia": "PG"
+	},
+	{
+		"istat": "54805",
+		"comune": "Montesanto Vigi",
+		"provincia": "PG"
+	},
+	{
+		"istat": "54806",
+		"comune": "Pascelupo",
+		"provincia": "PG"
+	},
+	{
+		"istat": "54807",
+		"comune": "Piedipaterno sul Nera",
+		"provincia": "PG"
+	},
+	{
+		"istat": "55801",
+		"comune": "Capitone",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55802",
+		"comune": "Carnaiola",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55803",
+		"comune": "Castel di Lago",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55804",
+		"comune": "Cesi",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55805",
+		"comune": "Collescipoli",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55806",
+		"comune": "Collestatte",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55807",
+		"comune": "Montegiove",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55808",
+		"comune": "Monterubbiaglio",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55809",
+		"comune": "Papigno",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55810",
+		"comune": "Piediluco",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55811",
+		"comune": "Porchiano del Monte",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55812",
+		"comune": "Portaria",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55813",
+		"comune": "San Vito in Monte",
+		"provincia": "TR"
+	},
+	{
+		"istat": "55814",
+		"comune": "Torre Orsina",
+		"provincia": "TR"
+	},
+	{
+		"istat": "56801",
+		"comune": "Bagnaja",
+		"provincia": "VT"
+	},
+	{
+		"istat": "56802",
+		"comune": "Castel Cellesi",
+		"provincia": "VT"
+	},
+	{
+		"istat": "56803",
+		"comune": "Grotte Santo Stefano",
+		"provincia": "VT"
+	},
+	{
+		"istat": "56804",
+		"comune": "Roccalvecce",
+		"provincia": "VT"
+	},
+	{
+		"istat": "56805",
+		"comune": "San Martino al Cimino",
+		"provincia": "VT"
+	},
+	{
+		"istat": "56806",
+		"comune": "San Michele in Teverina",
+		"provincia": "VT"
+	},
+	{
+		"istat": "57801",
+		"comune": "Bocchignano",
+		"provincia": "RI"
+	},
+	{
+		"istat": "57802",
+		"comune": "Castel San Benedetto Reatino",
+		"provincia": "RI"
+	},
+	{
+		"istat": "57803",
+		"comune": "Cerchiara in Sabina",
+		"provincia": "RI"
+	},
+	{
+		"istat": "57804",
+		"comune": "Collebaccaro",
+		"provincia": "RI"
+	},
+	{
+		"istat": "57805",
+		"comune": "Monte Santa Maria in Sabina",
+		"provincia": "RI"
+	},
+	{
+		"istat": "57806",
+		"comune": "Oliveto in Sabina",
+		"provincia": "RI"
+	},
+	{
+		"istat": "57807",
+		"comune": "Poggio Fidoni",
+		"provincia": "RI"
+	},
+	{
+		"istat": "57808",
+		"comune": "Posticciola",
+		"provincia": "RI"
+	},
+	{
+		"istat": "57809",
+		"comune": "Rocchette",
+		"provincia": "RI"
+	},
+	{
+		"istat": "57810",
+		"comune": "San Giovanni Reatino",
+		"provincia": "RI"
+	},
+	{
+		"istat": "57811",
+		"comune": "Sant’Elia Reatino",
+		"provincia": "RI"
+	},
+	{
+		"istat": "57812",
+		"comune": "Vazia",
+		"provincia": "RI"
+	},
+	{
+		"istat": "58121",
+		"comune": "Boville",
+		"provincia": "RM"
+	},
+	{
+		"istat": "58801",
+		"comune": "Montecelio",
+		"provincia": "RM"
+	},
+	{
+		"istat": "58802",
+		"comune": "Nettunia",
+		"provincia": "RM"
+	},
+	{
+		"istat": "59801",
+		"comune": "Castellonorato",
+		"provincia": "LT"
+	},
+	{
+		"istat": "59802",
+		"comune": "Elena",
+		"provincia": "LT"
+	},
+	{
+		"istat": "59803",
+		"comune": "Maranola",
+		"provincia": "LT"
+	},
+	{
+		"istat": "60801",
+		"comune": "Roccaguglielma",
+		"provincia": "FR"
+	},
+	{
+		"istat": "60802",
+		"comune": "San Pietro in Curolis",
+		"provincia": "FR"
+	},
+	{
+		"istat": "60803",
+		"comune": "Sant’Andrea di Vallefredda",
+		"provincia": "FR"
+	},
+	{
+		"istat": "60804",
+		"comune": "Viticuso ed Acquafondata",
+		"provincia": "FR"
+	},
+	{
+		"istat": "61801",
+		"comune": "Albanova",
+		"provincia": "CE"
+	},
+	{
+		"istat": "61802",
+		"comune": "Arienzo San Felice",
+		"provincia": "CE"
+	},
+	{
+		"istat": "61803",
+		"comune": "Atella di Napoli",
+		"provincia": "CE"
+	},
+	{
+		"istat": "61804",
+		"comune": "Casalba",
+		"provincia": "CE"
+	},
+	{
+		"istat": "61805",
+		"comune": "Fertilia",
+		"provincia": "CE"
+	},
+	{
+		"istat": "61806",
+		"comune": "Frignano",
+		"provincia": "CE"
+	},
+	{
+		"istat": "61807",
+		"comune": "Lusciano e Ducenta",
+		"provincia": "CE"
+	},
+	{
+		"istat": "61808",
+		"comune": "San Leucio",
+		"provincia": "CE"
+	},
+	{
+		"istat": "61809",
+		"comune": "Villa Volturno",
+		"provincia": "CE"
+	},
+	{
+		"istat": "62801",
+		"comune": "Bagnara di Benevento",
+		"provincia": "BN"
+	},
+	{
+		"istat": "62802",
+		"comune": "Civitella Licinio",
+		"provincia": "BN"
+	},
+	{
+		"istat": "62803",
+		"comune": "Luzzano",
+		"provincia": "BN"
+	},
+	{
+		"istat": "62804",
+		"comune": "Montorso",
+		"provincia": "BN"
+	},
+	{
+		"istat": "62805",
+		"comune": "Pastene",
+		"provincia": "BN"
+	},
+	{
+		"istat": "62806",
+		"comune": "Perrillo",
+		"provincia": "BN"
+	},
+	{
+		"istat": "62807",
+		"comune": "San Marco a Monti",
+		"provincia": "BN"
+	},
+	{
+		"istat": "62808",
+		"comune": "Varoni",
+		"provincia": "BN"
+	},
+	{
+		"istat": "63801",
+		"comune": "Barra",
+		"provincia": "NA"
+	},
+	{
+		"istat": "63802",
+		"comune": "Chiaiano ed Uniti",
+		"provincia": "NA"
+	},
+	{
+		"istat": "63803",
+		"comune": "Licignano di Napoli",
+		"provincia": "NA"
+	},
+	{
+		"istat": "63804",
+		"comune": "Pianura",
+		"provincia": "NA"
+	},
+	{
+		"istat": "63805",
+		"comune": "Piscinola",
+		"provincia": "NA"
+	},
+	{
+		"istat": "63806",
+		"comune": "Ponticelli",
+		"provincia": "NA"
+	},
+	{
+		"istat": "63807",
+		"comune": "San Giovanni a Teduccio",
+		"provincia": "NA"
+	},
+	{
+		"istat": "63808",
+		"comune": "San Pietro a Patierno",
+		"provincia": "NA"
+	},
+	{
+		"istat": "63809",
+		"comune": "Sant’Erasmo",
+		"provincia": "NA"
+	},
+	{
+		"istat": "63810",
+		"comune": "Secondigliano",
+		"provincia": "NA"
+	},
+	{
+		"istat": "63811",
+		"comune": "Sirico",
+		"provincia": "NA"
+	},
+	{
+		"istat": "63812",
+		"comune": "Soccavo",
+		"provincia": "NA"
+	},
+	{
+		"istat": "63813",
+		"comune": "Testaccio d'Ischia",
+		"provincia": "NA"
+	},
+	{
+		"istat": "64061",
+		"comune": "Montoro Inferiore",
+		"provincia": "AV"
+	},
+	{
+		"istat": "64062",
+		"comune": "Montoro Superiore",
+		"provincia": "AV"
+	},
+	{
+		"istat": "64801",
+		"comune": "Bellizzi Irpino",
+		"provincia": "AV"
+	},
+	{
+		"istat": "64802",
+		"comune": "Chianchetelle",
+		"provincia": "AV"
+	},
+	{
+		"istat": "64803",
+		"comune": "Migliano",
+		"provincia": "AV"
+	},
+	{
+		"istat": "64804",
+		"comune": "Quaglietta",
+		"provincia": "AV"
+	},
+	{
+		"istat": "64805",
+		"comune": "San Barbato",
+		"provincia": "AV"
+	},
+	{
+		"istat": "64806",
+		"comune": "San Pietro Irpino",
+		"provincia": "AV"
+	},
+	{
+		"istat": "64807",
+		"comune": "Sant'Agata Irpina",
+		"provincia": "AV"
+	},
+	{
+		"istat": "64808",
+		"comune": "Tavernola San Felice",
+		"provincia": "AV"
+	},
+	{
+		"istat": "65801",
+		"comune": "Capitello",
+		"provincia": "SA"
+	},
+	{
+		"istat": "65802",
+		"comune": "Castelruggiero",
+		"provincia": "SA"
+	},
+	{
+		"istat": "65803",
+		"comune": "Fogna",
+		"provincia": "SA"
+	},
+	{
+		"istat": "65804",
+		"comune": "Galdo",
+		"provincia": "SA"
+	},
+	{
+		"istat": "65805",
+		"comune": "Licusati",
+		"provincia": "SA"
+	},
+	{
+		"istat": "65806",
+		"comune": "Piaggine Soprane",
+		"provincia": "SA"
+	},
+	{
+		"istat": "66801",
+		"comune": "Arischia",
+		"provincia": "AQ"
+	},
+	{
+		"istat": "66802",
+		"comune": "Bagno",
+		"provincia": "AQ"
+	},
+	{
+		"istat": "66803",
+		"comune": "Camarda",
+		"provincia": "AQ"
+	},
+	{
+		"istat": "66804",
+		"comune": "Paganica",
+		"provincia": "AQ"
+	},
+	{
+		"istat": "66805",
+		"comune": "Preturo",
+		"provincia": "AQ"
+	},
+	{
+		"istat": "66806",
+		"comune": "Roio Piano",
+		"provincia": "AQ"
+	},
+	{
+		"istat": "66807",
+		"comune": "Sassa",
+		"provincia": "AQ"
+	},
+	{
+		"istat": "67801",
+		"comune": "Valle San Giovanni",
+		"provincia": "TE"
+	},
+	{
+		"istat": "68801",
+		"comune": "Castellammare Adriatico",
+		"provincia": "PE"
+	},
+	{
+		"istat": "68802",
+		"comune": "Montesilvano Marina",
+		"provincia": "PE"
+	},
+	{
+		"istat": "68803",
+		"comune": "Musellaro",
+		"provincia": "PE"
+	},
+	{
+		"istat": "68804",
+		"comune": "Roccacaramanico",
+		"provincia": "PE"
+	},
+	{
+		"istat": "69801",
+		"comune": "Fallascoso",
+		"provincia": "CH"
+	},
+	{
+		"istat": "69802",
+		"comune": "San Silvestro",
+		"provincia": "CH"
+	},
+	{
+		"istat": "72801",
+		"comune": "Canneto di Bari",
+		"provincia": "BA"
+	},
+	{
+		"istat": "72802",
+		"comune": "Carbonara di Bari",
+		"provincia": "BA"
+	},
+	{
+		"istat": "72803",
+		"comune": "Ceglie del Campo",
+		"provincia": "BA"
+	},
+	{
+		"istat": "72804",
+		"comune": "Loseto",
+		"provincia": "BA"
+	},
+	{
+		"istat": "72805",
+		"comune": "Montrone",
+		"provincia": "BA"
+	},
+	{
+		"istat": "76801",
+		"comune": "Castelluccio",
+		"provincia": "PZ"
+	},
+	{
+		"istat": "78028",
+		"comune": "Casole Bruzio",
+		"provincia": "CS"
+	},
+	{
+		"istat": "78095",
+		"comune": "Pedace",
+		"provincia": "CS"
+	},
+	{
+		"istat": "78141",
+		"comune": "Serra Pedace",
+		"provincia": "CS"
+	},
+	{
+		"istat": "78144",
+		"comune": "Spezzano Piccolo",
+		"provincia": "CS"
+	},
+	{
+		"istat": "78151",
+		"comune": "Trenta",
+		"provincia": "CS"
+	},
+	{
+		"istat": "78801",
+		"comune": "Aiello in Calabria",
+		"provincia": "CS"
+	},
+	{
+		"istat": "78802",
+		"comune": "Guardia Piemontese Terme",
+		"provincia": "CS"
+	},
+	{
+		"istat": "78803",
+		"comune": "Laino Bruzio",
+		"provincia": "CS"
+	},
+	{
+		"istat": "78804",
+		"comune": "Spezzano Grande",
+		"provincia": "CS"
+	},
+	{
+		"istat": "78805",
+		"comune": "Terrati",
+		"provincia": "CS"
+	},
+	{
+		"istat": "79085",
+		"comune": "Nicastro",
+		"provincia": "CZ"
+	},
+	{
+		"istat": "79105",
+		"comune": "Sambiase",
+		"provincia": "CZ"
+	},
+	{
+		"istat": "79120",
+		"comune": "Sant’Eufemia Lamezia",
+		"provincia": "CZ"
+	},
+	{
+		"istat": "79801",
+		"comune": "Castagna",
+		"provincia": "CZ"
+	},
+	{
+		"istat": "79802",
+		"comune": "Piscopio",
+		"provincia": "CZ"
+	},
+	{
+		"istat": "80801",
+		"comune": "Cannitello",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80802",
+		"comune": "Caridà",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80803",
+		"comune": "Cataforio",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80804",
+		"comune": "Catona",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80805",
+		"comune": "Gallico",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80806",
+		"comune": "Gallina",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80807",
+		"comune": "Iatrinoli",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80808",
+		"comune": "Orti",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80809",
+		"comune": "Paracorio",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80810",
+		"comune": "Pedavoli",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80811",
+		"comune": "Pellaro",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80812",
+		"comune": "Podargoni",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80813",
+		"comune": "Radicena",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80814",
+		"comune": "Rosalì",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80815",
+		"comune": "Salice Calabro",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80816",
+		"comune": "Sambatello",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80817",
+		"comune": "Samo di Calabria",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80818",
+		"comune": "San Pier Fedele",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80819",
+		"comune": "Tresilico",
+		"provincia": "RC"
+	},
+	{
+		"istat": "80820",
+		"comune": "Villa San Giuseppe",
+		"provincia": "RC"
+	},
+	{
+		"istat": "81801",
+		"comune": "Xitta",
+		"provincia": "TP"
+	},
+	{
+		"istat": "83801",
+		"comune": "Bauso",
+		"provincia": "ME"
+	},
+	{
+		"istat": "83802",
+		"comune": "Calvaruso",
+		"provincia": "ME"
+	},
+	{
+		"istat": "83803",
+		"comune": "Guidomandri",
+		"provincia": "ME"
+	},
+	{
+		"istat": "83804",
+		"comune": "Lanza",
+		"provincia": "ME"
+	},
+	{
+		"istat": "83805",
+		"comune": "Locadi",
+		"provincia": "ME"
+	},
+	{
+		"istat": "83806",
+		"comune": "Salina",
+		"provincia": "ME"
+	},
+	{
+		"istat": "83807",
+		"comune": "Santo Stefano di Briga",
+		"provincia": "ME"
+	},
+	{
+		"istat": "83808",
+		"comune": "Spadafora San Martino",
+		"provincia": "ME"
+	},
+	{
+		"istat": "83809",
+		"comune": "Spadafora San Pietro",
+		"provincia": "ME"
+	},
+	{
+		"istat": "86801",
+		"comune": "Carcaci",
+		"provincia": "EN"
+	},
+	{
+		"istat": "87801",
+		"comune": "Ionia",
+		"provincia": "CT"
+	},
+	{
+		"istat": "87802",
+		"comune": "San Giovanni di Galermo",
+		"provincia": "CT"
+	},
+	{
+		"istat": "88801",
+		"comune": "Ragusa Ibla",
+		"provincia": "RG"
+	},
+	{
+		"istat": "90801",
+		"comune": "Bantine",
+		"provincia": "SS"
+	},
+	{
+		"istat": "90802",
+		"comune": "Nuchis",
+		"provincia": "SS"
+	},
+	{
+		"istat": "90803",
+		"comune": "Rebeccu",
+		"provincia": "SS"
+	},
+	{
+		"istat": "91801",
+		"comune": "Garofai",
+		"provincia": "NU"
+	},
+	{
+		"istat": "91802",
+		"comune": "Irgoli di Galtelli",
+		"provincia": "NU"
+	},
+	{
+		"istat": "91804",
+		"comune": "Mulargia",
+		"provincia": "NU"
+	},
+	{
+		"istat": "91805",
+		"comune": "Tortolì",
+		"provincia": "NU"
+	},
+	{
+		"istat": "92801",
+		"comune": "Arixi",
+		"provincia": "CA"
+	},
+	{
+		"istat": "92802",
+		"comune": "Donigala Siurgus",
+		"provincia": "CA"
+	},
+	{
+		"istat": "92805",
+		"comune": "Pirri",
+		"provincia": "CA"
+	},
+	{
+		"istat": "92806",
+		"comune": "San Pantaleo",
+		"provincia": "CA"
+	},
+	{
+		"istat": "92807",
+		"comune": "Serbariu",
+		"provincia": "CA"
+	},
+	{
+		"istat": "92808",
+		"comune": "Seuni",
+		"provincia": "CA"
+	},
+	{
+		"istat": "92809",
+		"comune": "Sicci San Biagio",
+		"provincia": "CA"
+	},
+	{
+		"istat": "92810",
+		"comune": "Sisini",
+		"provincia": "CA"
+	},
+	{
+		"istat": "92811",
+		"comune": "Siurgus",
+		"provincia": "CA"
+	},
+	{
+		"istat": "92812",
+		"comune": "Villagreca",
+		"provincia": "CA"
+	},
+	{
+		"istat": "93003",
+		"comune": "Arzene",
+		"provincia": "PN"
+	},
+	{
+		"istat": "93048",
+		"comune": "Valvasone",
+		"provincia": "PN"
+	},
+	{
+		"istat": "93801",
+		"comune": "Vallenoncello",
+		"provincia": "PN"
+	},
+	{
+		"istat": "94801",
+		"comune": "Castellone al Volturno",
+		"provincia": "IS"
+	},
+	{
+		"istat": "94802",
+		"comune": "San Vincenzo a Volturno",
+		"provincia": "IS"
+	},
+	{
+		"istat": "95801",
+		"comune": "Domusnovas Canales",
+		"provincia": "OR"
+	},
+	{
+		"istat": "95802",
+		"comune": "Donigala Fenughedu",
+		"provincia": "OR"
+	},
+	{
+		"istat": "95803",
+		"comune": "Escovedu",
+		"provincia": "OR"
+	},
+	{
+		"istat": "95804",
+		"comune": "Figu",
+		"provincia": "OR"
+	},
+	{
+		"istat": "95805",
+		"comune": "Gonnosnò",
+		"provincia": "OR"
+	},
+	{
+		"istat": "95806",
+		"comune": "Massama",
+		"provincia": "OR"
+	},
+	{
+		"istat": "95807",
+		"comune": "Nuraxinieddu",
+		"provincia": "OR"
+	},
+	{
+		"istat": "95808",
+		"comune": "San Vero Congius",
+		"provincia": "OR"
+	},
+	{
+		"istat": "95809",
+		"comune": "Siamanna",
+		"provincia": "OR"
+	},
+	{
+		"istat": "95810",
+		"comune": "Silì",
+		"provincia": "OR"
+	},
+	{
+		"istat": "95811",
+		"comune": "Solanas",
+		"provincia": "OR"
+	},
+	{
+		"istat": "95812",
+		"comune": "Zeppara",
+		"provincia": "OR"
+	},
+	{
+		"istat": "95813",
+		"comune": "Zuri",
+		"provincia": "OR"
+	},
+	{
+		"istat": "96011",
+		"comune": "Campiglia Cervo",
+		"provincia": "BI"
+	},
+	{
+		"istat": "96022",
+		"comune": "Crosa",
+		"provincia": "BI"
+	},
+	{
+		"istat": "96029",
+		"comune": "Lessona",
+		"provincia": "BI"
+	},
+	{
+		"istat": "96036",
+		"comune": "Mosso Santa Maria",
+		"provincia": "BI"
+	},
+	{
+		"istat": "96045",
+		"comune": "Pistolesa",
+		"provincia": "BI"
+	},
+	{
+		"istat": "96052",
+		"comune": "Quittengo",
+		"provincia": "BI"
+	},
+	{
+		"istat": "96060",
+		"comune": "San Paolo Cervo ",
+		"provincia": "BI"
+	},
+	{
+		"istat": "96061",
+		"comune": "Selve Marcone",
+		"provincia": "BI"
+	},
+	{
+		"istat": "97066",
+		"comune": "Perego",
+		"provincia": "LC"
+	},
+	{
+		"istat": "97073",
+		"comune": "Rovagnate",
+		"provincia": "LC"
+	},
+	{
+		"istat": "97087",
+		"comune": "Verderio Inferiore",
+		"provincia": "LC"
+	},
+	{
+		"istat": "97088",
+		"comune": "Verderio Superiore",
+		"provincia": "LC"
+	},
+	{
+		"istat": "99007",
+		"comune": "Monte Colombo",
+		"provincia": "RN"
+	},
+	{
+		"istat": "99010",
+		"comune": "Montescudo",
+		"provincia": "RN"
+	},
+	{
+		"istat": "99012",
+		"comune": "Poggio Berni",
+		"provincia": "RN"
+	},
+	{
+		"istat": "99019",
+		"comune": "Torriana",
+		"provincia": "RN"
+	},
+	{
+		"istat": "103063",
+		"comune": "Seppiana",
+		"provincia": "VB"
+	},
+	{
+		"istat": "103073",
+		"comune": "Viganella",
+		"provincia": "VB"
+	},
+	{
+		"istat": "701701",
+		"comune": "Abbazia",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701702",
+		"comune": "Castel Iablanizza",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701703",
+		"comune": "Castelnuovo d'Istria",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701704",
+		"comune": "Clana",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701705",
+		"comune": "Elsane",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701706",
+		"comune": "Fiume",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701707",
+		"comune": "Fontana del Conte",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701708",
+		"comune": "Laurana",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701709",
+		"comune": "Matteria",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701710",
+		"comune": "Mattuglie",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701711",
+		"comune": "Valsantamarina",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701712",
+		"comune": "Primano",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701714",
+		"comune": "Villa del Nevoso",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701801",
+		"comune": "Apriano",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701802",
+		"comune": "Berdo San Giovanni",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701803",
+		"comune": "Bersezio del Quarnaro",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701804",
+		"comune": "Bisterza",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701805",
+		"comune": "Ceglie",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701806",
+		"comune": "Monte Chilovi",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701807",
+		"comune": "Retacevo in Monte",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701808",
+		"comune": "Sagoria San Martino",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701809",
+		"comune": "Smeria",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701810",
+		"comune": "Torrenova di Bisterza",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "701811",
+		"comune": "Volosca-Abbazia",
+		"provincia": "FIUME"
+	},
+	{
+		"istat": "702701",
+		"comune": "Albona",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702702",
+		"comune": "Antignana",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702703",
+		"comune": "Arsia",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702704",
+		"comune": "Barbana d'Istria",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702705",
+		"comune": "Bogliuno",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702706",
+		"comune": "Brioni Maggiore",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702707",
+		"comune": "Buie d'Istria",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702708",
+		"comune": "Canfanaro",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702709",
+		"comune": "Capodistria",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702710",
+		"comune": "Cherso",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702711",
+		"comune": "Cittanova d'Istria",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702712",
+		"comune": "Dignano d'Istria",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702713",
+		"comune": "Erpelle-Cosina",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702714",
+		"comune": "Fianona",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702715",
+		"comune": "Gimino",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702716",
+		"comune": "Grisignana",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702717",
+		"comune": "Isola d'Istria",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702718",
+		"comune": "Lanischie",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702719",
+		"comune": "Lussingrande",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702720",
+		"comune": "Lussinpiccolo",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702721",
+		"comune": "Maresego",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702722",
+		"comune": "Monte di Capodistria",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702723",
+		"comune": "Montona",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702724",
+		"comune": "Neresine",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702725",
+		"comune": "Orsera",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702726",
+		"comune": "Ossero",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702727",
+		"comune": "Parenzo",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702728",
+		"comune": "Pinguente",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702729",
+		"comune": "Pirano",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702730",
+		"comune": "Pisino",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702731",
+		"comune": "Pola",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702732",
+		"comune": "Portole",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702733",
+		"comune": "Rovigno d'Istria",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702734",
+		"comune": "Rozzo",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702735",
+		"comune": "Sanvincenti",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702736",
+		"comune": "Umago",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702737",
+		"comune": "Valdarsa",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702738",
+		"comune": "Valle d'Istria",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702739",
+		"comune": "Verteneglio",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702740",
+		"comune": "Villa Decani",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702741",
+		"comune": "Visignano d'Istria",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702742",
+		"comune": "Visinada",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702801",
+		"comune": "Draguccio",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "702802",
+		"comune": "Occisla-Clanzo",
+		"provincia": "POLA"
+	},
+	{
+		"istat": "703701",
+		"comune": "Lagosta",
+		"provincia": "ZARA"
+	},
+	{
+		"istat": "703702",
+		"comune": "Zara",
+		"provincia": "ZARA"
+	},
+	{
+		"istat": "Total",
+		"comune": "",
+		"provincia": "2310"
+	},
+	{
+		"istat": ""
+	}
+]
