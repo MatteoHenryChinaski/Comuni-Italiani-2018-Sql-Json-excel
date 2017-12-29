@@ -37,8 +37,14 @@ Si precisa che alcuni dati (esempio numero di abitanti, patroni o coordinate geo
 - numero comuni 
 
 ## TABELLA DEI COMUNI ITALIANI 
-- cod. istat comune regione sigla provincia prefisso codice fisco superficie 
-numero di residenti (valore Istat non sempre aggiornato) 
+- cod. istat 
+- comune 
+- regione 
+- sigla provincia 
+- prefisso 
+- codice fisco 
+- superficie 
+- numero di residenti (valore Istat non sempre aggiornato) 
 
 ## TABELLA DELLE INFORMAZIONI 
 - cod. istat 
@@ -54,7 +60,11 @@ numero di residenti (valore Istat non sempre aggiornato)
 - longitudine 
 
 ## TABELLA DEGLI INDIRIZZI DEI MUNICIPI 
-cod. istat comune regione sigla provincia indirizzo 
+- cod. istat 
+- comune 
+- regione 
+- sigla provincia 
+- indirizzo 
 
 ## TABELLA DEI COMUNI RIMOSSI 
 - cod. istat 
