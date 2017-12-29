@@ -1,0 +1,869 @@
+[
+	{
+		"sigla": "AG",
+		"provincia": "Agrigento",
+		"superficie": "3044.85",
+		"residenti": "446081",
+		"num_comuni": "43",
+		"id_regione": "15"
+	},
+	{
+		"sigla": "AL",
+		"provincia": "Alessandria",
+		"superficie": "3560.42",
+		"residenti": "427354",
+		"num_comuni": "190",
+		"id_regione": "12"
+	},
+	{
+		"sigla": "AN",
+		"provincia": "Ancona",
+		"superficie": "1940.16",
+		"residenti": "475495",
+		"num_comuni": "47",
+		"id_regione": "10"
+	},
+	{
+		"sigla": "AO",
+		"provincia": "Aosta",
+		"superficie": "3263.24",
+		"residenti": "127844",
+		"num_comuni": "74",
+		"id_regione": "19"
+	},
+	{
+		"sigla": "AP",
+		"provincia": "Ascoli Piceno",
+		"superficie": "1228.23",
+		"residenti": "210711",
+		"num_comuni": "33",
+		"id_regione": "10"
+	},
+	{
+		"sigla": "AQ",
+		"provincia": "L'Aquila",
+		"superficie": "5034.46",
+		"residenti": "300774",
+		"num_comuni": "108",
+		"id_regione": "1"
+	},
+	{
+		"sigla": "AR",
+		"provincia": "Arezzo",
+		"superficie": "3235.88",
+		"residenti": "344437",
+		"num_comuni": "37",
+		"id_regione": "16"
+	},
+	{
+		"sigla": "AT",
+		"provincia": "Asti",
+		"superficie": "1510.78",
+		"residenti": "217978",
+		"num_comuni": "118",
+		"id_regione": "12"
+	},
+	{
+		"sigla": "AV",
+		"provincia": "Avellino",
+		"superficie": "2791.64",
+		"residenti": "428523",
+		"num_comuni": "118",
+		"id_regione": "4"
+	},
+	{
+		"sigla": "BA",
+		"provincia": "Bari",
+		"superficie": "3825.41",
+		"residenti": "1246297",
+		"num_comuni": "41",
+		"id_regione": "13"
+	},
+	{
+		"sigla": "BG",
+		"provincia": "Bergamo",
+		"superficie": "2722.86",
+		"residenti": "1094062",
+		"num_comuni": "242",
+		"id_regione": "9"
+	},
+	{
+		"sigla": "BI",
+		"provincia": "Biella",
+		"superficie": "917.3",
+		"residenti": "181426",
+		"num_comuni": "78",
+		"id_regione": "12"
+	},
+	{
+		"sigla": "BL",
+		"provincia": "Belluno",
+		"superficie": "3678.02",
+		"residenti": "209364",
+		"num_comuni": "64",
+		"id_regione": "20"
+	},
+	{
+		"sigla": "BN",
+		"provincia": "Benevento",
+		"superficie": "2070.63",
+		"residenti": "283651",
+		"num_comuni": "78",
+		"id_regione": "4"
+	},
+	{
+		"sigla": "BO",
+		"provincia": "Bologna",
+		"superficie": "3702.41",
+		"residenti": "990681",
+		"num_comuni": "55",
+		"id_regione": "5"
+	},
+	{
+		"sigla": "BR",
+		"provincia": "Brindisi",
+		"superficie": "1839.53",
+		"residenti": "399835",
+		"num_comuni": "20",
+		"id_regione": "13"
+	},
+	{
+		"sigla": "BS",
+		"provincia": "Brescia",
+		"superficie": "4784.3599999999997",
+		"residenti": "1247192",
+		"num_comuni": "205",
+		"id_regione": "9"
+	},
+	{
+		"sigla": "BT",
+		"provincia": "Barletta-Andria-Trani",
+		"superficie": "1538.68",
+		"residenti": "392446",
+		"num_comuni": "10",
+		"id_regione": "13"
+	},
+	{
+		"sigla": "BZ",
+		"provincia": "Bolzano",
+		"superficie": "7399.92",
+		"residenti": "509626",
+		"num_comuni": "116",
+		"id_regione": "17"
+	},
+	{
+		"sigla": "CA",
+		"provincia": "Cagliari",
+		"superficie": "1248.68",
+		"residenti": "431657",
+		"num_comuni": "17",
+		"id_regione": "14"
+	},
+	{
+		"sigla": "CB",
+		"provincia": "Campobasso",
+		"superficie": "2908.8",
+		"residenti": "226217",
+		"num_comuni": "84",
+		"id_regione": "11"
+	},
+	{
+		"sigla": "CE",
+		"provincia": "Caserta",
+		"superficie": "2639.38",
+		"residenti": "908784",
+		"num_comuni": "104",
+		"id_regione": "4"
+	},
+	{
+		"sigla": "CH",
+		"provincia": "Chieti",
+		"superficie": "2588.35",
+		"residenti": "389053",
+		"num_comuni": "104",
+		"id_regione": "1"
+	},
+	{
+		"sigla": "CL",
+		"provincia": "Caltanissetta",
+		"superficie": "2128.4499999999998",
+		"residenti": "272458",
+		"num_comuni": "22",
+		"id_regione": "15"
+	},
+	{
+		"sigla": "CN",
+		"provincia": "Cuneo",
+		"superficie": "6902.68",
+		"residenti": "589102",
+		"num_comuni": "250",
+		"id_regione": "12"
+	},
+	{
+		"sigla": "CO",
+		"provincia": "Como",
+		"superficie": "1308.96",
+		"residenti": "592504",
+		"num_comuni": "151",
+		"id_regione": "9"
+	},
+	{
+		"sigla": "CR",
+		"provincia": "Cremona",
+		"superficie": "1770.57",
+		"residenti": "361812",
+		"num_comuni": "115",
+		"id_regione": "9"
+	},
+	{
+		"sigla": "CS",
+		"provincia": "Cosenza",
+		"superficie": "6649.96",
+		"residenti": "714281",
+		"num_comuni": "155",
+		"id_regione": "3"
+	},
+	{
+		"sigla": "CT",
+		"provincia": "Catania",
+		"superficie": "3552.2",
+		"residenti": "1077113",
+		"num_comuni": "58",
+		"id_regione": "15"
+	},
+	{
+		"sigla": "CZ",
+		"provincia": "Catanzaro",
+		"superficie": "2391.35",
+		"residenti": "359716",
+		"num_comuni": "80",
+		"id_regione": "3"
+	},
+	{
+		"sigla": "EN",
+		"provincia": "Enna",
+		"superficie": "2561.86",
+		"residenti": "172413",
+		"num_comuni": "20",
+		"id_regione": "15"
+	},
+	{
+		"sigla": "FC",
+		"provincia": "Forlì-Cesena",
+		"superficie": "2376.8000000000002",
+		"residenti": "392817",
+		"num_comuni": "30",
+		"id_regione": "5"
+	},
+	{
+		"sigla": "FE",
+		"provincia": "Ferrara",
+		"superficie": "2631.82",
+		"residenti": "352723",
+		"num_comuni": "23",
+		"id_regione": "5"
+	},
+	{
+		"sigla": "FG",
+		"provincia": "Foggia",
+		"superficie": "6966.17",
+		"residenti": "628221",
+		"num_comuni": "61",
+		"id_regione": "13"
+	},
+	{
+		"sigla": "FI",
+		"provincia": "Firenze",
+		"superficie": "3514.38",
+		"residenti": "987354",
+		"num_comuni": "42",
+		"id_regione": "16"
+	},
+	{
+		"sigla": "FM",
+		"provincia": "Fermo",
+		"superficie": "859.5",
+		"residenti": "175143",
+		"num_comuni": "40",
+		"id_regione": "10"
+	},
+	{
+		"sigla": "FR",
+		"provincia": "Frosinone",
+		"superficie": "3243.89",
+		"residenti": "493229",
+		"num_comuni": "91",
+		"id_regione": "7"
+	},
+	{
+		"sigla": "GE",
+		"provincia": "Genova",
+		"superficie": "1838.47",
+		"residenti": "851283",
+		"num_comuni": "67",
+		"id_regione": "8"
+	},
+	{
+		"sigla": "GO",
+		"provincia": "Gorizia",
+		"superficie": "466.02",
+		"residenti": "140650",
+		"num_comuni": "25",
+		"id_regione": "6"
+	},
+	{
+		"sigla": "GR",
+		"provincia": "Grosseto",
+		"superficie": "4504.29",
+		"residenti": "220982",
+		"num_comuni": "28",
+		"id_regione": "16"
+	},
+	{
+		"sigla": "IM",
+		"provincia": "Imperia",
+		"superficie": "1155.9100000000001",
+		"residenti": "214290",
+		"num_comuni": "67",
+		"id_regione": "8"
+	},
+	{
+		"sigla": "IS",
+		"provincia": "Isernia",
+		"superficie": "1528.88",
+		"residenti": "87124",
+		"num_comuni": "52",
+		"id_regione": "11"
+	},
+	{
+		"sigla": "KR",
+		"provincia": "Crotone",
+		"superficie": "1716.58",
+		"residenti": "171666",
+		"num_comuni": "27",
+		"id_regione": "3"
+	},
+	{
+		"sigla": "LC",
+		"provincia": "Lecco",
+		"superficie": "816.17",
+		"residenti": "338425",
+		"num_comuni": "88",
+		"id_regione": "9"
+	},
+	{
+		"sigla": "LE",
+		"provincia": "Lecce",
+		"superficie": "2759.4",
+		"residenti": "801190",
+		"num_comuni": "97",
+		"id_regione": "13"
+	},
+	{
+		"sigla": "LI",
+		"provincia": "Livorno",
+		"superficie": "1212.43",
+		"residenti": "335631",
+		"num_comuni": "20",
+		"id_regione": "16"
+	},
+	{
+		"sigla": "LO",
+		"provincia": "Lodi",
+		"superficie": "782.2",
+		"residenti": "225798",
+		"num_comuni": "61",
+		"id_regione": "9"
+	},
+	{
+		"sigla": "LT",
+		"provincia": "Latina",
+		"superficie": "2250.44",
+		"residenti": "552090",
+		"num_comuni": "33",
+		"id_regione": "7"
+	},
+	{
+		"sigla": "LU",
+		"provincia": "Lucca",
+		"superficie": "1772.81",
+		"residenti": "388555",
+		"num_comuni": "33",
+		"id_regione": "16"
+	},
+	{
+		"sigla": "MB",
+		"provincia": "Monza e della Brianza",
+		"superficie": "405.49",
+		"residenti": "850684",
+		"num_comuni": "55",
+		"id_regione": "9"
+	},
+	{
+		"sigla": "MC",
+		"provincia": "Macerata",
+		"superficie": "2773.75",
+		"residenti": "320418",
+		"num_comuni": "55",
+		"id_regione": "10"
+	},
+	{
+		"sigla": "ME",
+		"provincia": "Messina",
+		"superficie": "3247.34",
+		"residenti": "648062",
+		"num_comuni": "108",
+		"id_regione": "15"
+	},
+	{
+		"sigla": "MI",
+		"provincia": "Milano",
+		"superficie": "1578.9",
+		"residenti": "3075083",
+		"num_comuni": "134",
+		"id_regione": "9"
+	},
+	{
+		"sigla": "MN",
+		"provincia": "Mantova",
+		"superficie": "2338.84",
+		"residenti": "411335",
+		"num_comuni": "69",
+		"id_regione": "9"
+	},
+	{
+		"sigla": "MO",
+		"provincia": "Modena",
+		"superficie": "2682.86",
+		"residenti": "688376",
+		"num_comuni": "47",
+		"id_regione": "5"
+	},
+	{
+		"sigla": "MS",
+		"provincia": "Massa e Carrara",
+		"superficie": "1156.44",
+		"residenti": "199330",
+		"num_comuni": "17",
+		"id_regione": "16"
+	},
+	{
+		"sigla": "MT",
+		"provincia": "Matera",
+		"superficie": "3446.12",
+		"residenti": "200012",
+		"num_comuni": "31",
+		"id_regione": "2"
+	},
+	{
+		"sigla": "NA",
+		"provincia": "Napoli",
+		"superficie": "1171.1300000000001",
+		"residenti": "3055339",
+		"num_comuni": "92",
+		"id_regione": "4"
+	},
+	{
+		"sigla": "NO",
+		"provincia": "Novara",
+		"superficie": "1338.12",
+		"residenti": "367022",
+		"num_comuni": "88",
+		"id_regione": "12"
+	},
+	{
+		"sigla": "NU",
+		"provincia": "Nuoro",
+		"superficie": "5638.02",
+		"residenti": "213086",
+		"num_comuni": "74",
+		"id_regione": "14"
+	},
+	{
+		"sigla": "OR",
+		"provincia": "Oristano",
+		"superficie": "2990.45",
+		"residenti": "160766",
+		"num_comuni": "87",
+		"id_regione": "14"
+	},
+	{
+		"sigla": "PA",
+		"provincia": "Palermo",
+		"superficie": "4992.2299999999996",
+		"residenti": "1243638",
+		"num_comuni": "82",
+		"id_regione": "15"
+	},
+	{
+		"sigla": "PC",
+		"provincia": "Piacenza",
+		"superficie": "2589.4699999999998",
+		"residenti": "286336",
+		"num_comuni": "48",
+		"id_regione": "5"
+	},
+	{
+		"sigla": "PD",
+		"provincia": "Padova",
+		"superficie": "2141.59",
+		"residenti": "927848",
+		"num_comuni": "104",
+		"id_regione": "20"
+	},
+	{
+		"sigla": "PE",
+		"provincia": "Pescara",
+		"superficie": "1189.29",
+		"residenti": "315725",
+		"num_comuni": "46",
+		"id_regione": "1"
+	},
+	{
+		"sigla": "PG",
+		"provincia": "Perugia",
+		"superficie": "6334.09",
+		"residenti": "657873",
+		"num_comuni": "59",
+		"id_regione": "18"
+	},
+	{
+		"sigla": "PI",
+		"provincia": "Pisa",
+		"superficie": "2445.8200000000002",
+		"residenti": "413602",
+		"num_comuni": "37",
+		"id_regione": "16"
+	},
+	{
+		"sigla": "PN",
+		"provincia": "Pordenone",
+		"superficie": "2276.3000000000002",
+		"residenti": "312911",
+		"num_comuni": "50",
+		"id_regione": "6"
+	},
+	{
+		"sigla": "PO",
+		"provincia": "Prato",
+		"superficie": "365.26",
+		"residenti": "248292",
+		"num_comuni": "7",
+		"id_regione": "16"
+	},
+	{
+		"sigla": "PR",
+		"provincia": "Parma",
+		"superficie": "3449.32",
+		"residenti": "431049",
+		"num_comuni": "45",
+		"id_regione": "5"
+	},
+	{
+		"sigla": "PT",
+		"provincia": "Pistoia",
+		"superficie": "964.98",
+		"residenti": "287445",
+		"num_comuni": "20",
+		"id_regione": "16"
+	},
+	{
+		"sigla": "PU",
+		"provincia": "Pesaro e Urbino",
+		"superficie": "2563.4899999999998",
+		"residenti": "363388",
+		"num_comuni": "54",
+		"id_regione": "10"
+	},
+	{
+		"sigla": "PV",
+		"provincia": "Pavia",
+		"superficie": "2964.73",
+		"residenti": "539569",
+		"num_comuni": "188",
+		"id_regione": "9"
+	},
+	{
+		"sigla": "PZ",
+		"provincia": "Potenza",
+		"superficie": "6548.49",
+		"residenti": "376182",
+		"num_comuni": "100",
+		"id_regione": "2"
+	},
+	{
+		"sigla": "RA",
+		"provincia": "Ravenna",
+		"superficie": "1858.49",
+		"residenti": "386111",
+		"num_comuni": "18",
+		"id_regione": "5"
+	},
+	{
+		"sigla": "RC",
+		"provincia": "Reggio Calabria",
+		"superficie": "3183.19",
+		"residenti": "550323",
+		"num_comuni": "97",
+		"id_regione": "3"
+	},
+	{
+		"sigla": "RE",
+		"provincia": "Reggio Emilia",
+		"superficie": "2292.89",
+		"residenti": "522468",
+		"num_comuni": "42",
+		"id_regione": "5"
+	},
+	{
+		"sigla": "RG",
+		"provincia": "Ragusa",
+		"superficie": "1614.02",
+		"residenti": "310220",
+		"num_comuni": "12",
+		"id_regione": "15"
+	},
+	{
+		"sigla": "RI",
+		"provincia": "Rieti",
+		"superficie": "2749.16",
+		"residenti": "156521",
+		"num_comuni": "73",
+		"id_regione": "7"
+	},
+	{
+		"sigla": "RM",
+		"provincia": "Roma",
+		"superficie": "5380.95",
+		"residenti": "4039813",
+		"num_comuni": "121",
+		"id_regione": "7"
+	},
+	{
+		"sigla": "RN",
+		"provincia": "Rimini",
+		"superficie": "861.48",
+		"residenti": "326926",
+		"num_comuni": "25",
+		"id_regione": "5"
+	},
+	{
+		"sigla": "RO",
+		"provincia": "Rovigo",
+		"superficie": "1790.01",
+		"residenti": "242543",
+		"num_comuni": "50",
+		"id_regione": "20"
+	},
+	{
+		"sigla": "SA",
+		"provincia": "Salerno",
+		"superficie": "4917.46",
+		"residenti": "1093453",
+		"num_comuni": "158",
+		"id_regione": "4"
+	},
+	{
+		"sigla": "SI",
+		"provincia": "Siena",
+		"superficie": "3821.22",
+		"residenti": "267200",
+		"num_comuni": "35",
+		"id_regione": "16"
+	},
+	{
+		"sigla": "SO",
+		"provincia": "Sondrio",
+		"superficie": "3211.9",
+		"residenti": "181101",
+		"num_comuni": "77",
+		"id_regione": "9"
+	},
+	{
+		"sigla": "SP",
+		"provincia": "La spezia",
+		"superficie": "882.4",
+		"residenti": "218717",
+		"num_comuni": "32",
+		"id_regione": "8"
+	},
+	{
+		"sigla": "SR",
+		"provincia": "Siracusa",
+		"superficie": "2108.8000000000002",
+		"residenti": "399469",
+		"num_comuni": "21",
+		"id_regione": "15"
+	},
+	{
+		"sigla": "SS",
+		"provincia": "Sassari",
+		"superficie": "7692.09",
+		"residenti": "494471",
+		"num_comuni": "92",
+		"id_regione": "14"
+	},
+	{
+		"sigla": "SU",
+		"provincia": "Sud Sardegna",
+		"superficie": "6530.78",
+		"residenti": "358158",
+		"num_comuni": "107",
+		"id_regione": "14"
+	},
+	{
+		"sigla": "SV",
+		"provincia": "Savona",
+		"superficie": "1544.77",
+		"residenti": "280837",
+		"num_comuni": "69",
+		"id_regione": "8"
+	},
+	{
+		"sigla": "TA",
+		"provincia": "Taranto",
+		"superficie": "2428.71",
+		"residenti": "582814",
+		"num_comuni": "29",
+		"id_regione": "13"
+	},
+	{
+		"sigla": "TE",
+		"provincia": "Teramo",
+		"superficie": "1950.61",
+		"residenti": "306955",
+		"num_comuni": "47",
+		"id_regione": "1"
+	},
+	{
+		"sigla": "TN",
+		"provincia": "Trento",
+		"superficie": "6206.9",
+		"residenti": "530308",
+		"num_comuni": "177",
+		"id_regione": "17"
+	},
+	{
+		"sigla": "TO",
+		"provincia": "Torino",
+		"superficie": "6821.96",
+		"residenti": "2254720",
+		"num_comuni": "315",
+		"id_regione": "12"
+	},
+	{
+		"sigla": "TP",
+		"provincia": "Trapani",
+		"superficie": "2461.65",
+		"residenti": "430478",
+		"num_comuni": "24",
+		"id_regione": "15"
+	},
+	{
+		"sigla": "TR",
+		"provincia": "Terni",
+		"superficie": "2121.9499999999998",
+		"residenti": "228366",
+		"num_comuni": "33",
+		"id_regione": "18"
+	},
+	{
+		"sigla": "TS",
+		"provincia": "Trieste",
+		"superficie": "211.82",
+		"residenti": "231677",
+		"num_comuni": "6",
+		"id_regione": "6"
+	},
+	{
+		"sigla": "TV",
+		"provincia": "Treviso",
+		"superficie": "2476.6799999999998",
+		"residenti": "881245",
+		"num_comuni": "95",
+		"id_regione": "20"
+	},
+	{
+		"sigla": "UD",
+		"provincia": "Udine",
+		"superficie": "4904.25",
+		"residenti": "536622",
+		"num_comuni": "135",
+		"id_regione": "6"
+	},
+	{
+		"sigla": "VA",
+		"provincia": "Varese",
+		"superficie": "1198.71",
+		"residenti": "876960",
+		"num_comuni": "139",
+		"id_regione": "9"
+	},
+	{
+		"sigla": "VB",
+		"provincia": "Verbano Cusio Ossola",
+		"superficie": "2254.83",
+		"residenti": "160143",
+		"num_comuni": "76",
+		"id_regione": "12"
+	},
+	{
+		"sigla": "VC",
+		"provincia": "Vercelli",
+		"superficie": "2088.08",
+		"residenti": "176307",
+		"num_comuni": "86",
+		"id_regione": "12"
+	},
+	{
+		"sigla": "VE",
+		"provincia": "Venezia",
+		"superficie": "2466.4899999999998",
+		"residenti": "847983",
+		"num_comuni": "44",
+		"id_regione": "20"
+	},
+	{
+		"sigla": "VI",
+		"provincia": "Vicenza",
+		"superficie": "2725.09",
+		"residenti": "865421",
+		"num_comuni": "121",
+		"id_regione": "20"
+	},
+	{
+		"sigla": "VR",
+		"provincia": "Verona",
+		"superficie": "3120.97",
+		"residenti": "907352",
+		"num_comuni": "98",
+		"id_regione": "20"
+	},
+	{
+		"sigla": "VT",
+		"provincia": "Viterbo",
+		"superficie": "3611.53",
+		"residenti": "315623",
+		"num_comuni": "60",
+		"id_regione": "7"
+	},
+	{
+		"sigla": "VV",
+		"provincia": "Vibo Valentia",
+		"superficie": "1139.47",
+		"residenti": "162252",
+		"num_comuni": "50",
+		"id_regione": "3"
+	},
+	{
+		"sigla": "Total",
+		"provincia": "",
+		"superficie": "",
+		"residenti": "",
+		"num_comuni": "",
+		"id_regione": "1127"
+	},
+	{
+		"sigla": ""
+	}
+]
