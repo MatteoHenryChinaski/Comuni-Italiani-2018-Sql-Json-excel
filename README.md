@@ -21,8 +21,8 @@ Si precisa che alcuni dati (esempio numero di abitanti, patroni o coordinate geo
 - indirizzo sede 
 
 ## TABELLA DELLE PROVINCE ITALIANE 
-- id regione nome 
-- provincia 
+- id regione 
+- nome provincia 
 - sigla 
 - superficie (in mq) 
 - numero di residenti (valore Istat non sempre aggiornato) 
@@ -32,7 +32,8 @@ Si precisa che alcuni dati (esempio numero di abitanti, patroni o coordinate geo
 - id città 
 - denominazione 
 - capoluogo 
-- popolazione superficie (in mq) 
+- popolazione 
+- superficie (in mq) 
 - densita 
 - numero comuni 
 
