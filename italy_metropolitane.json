@@ -1,0 +1,140 @@
+[
+	{
+		"id": "1",
+		"denominazione": "ROMA CAPITALE",
+		"capoluogo": "Roma",
+		"popolazione": "4340474",
+		"superficie": "5363",
+		"densita": "809",
+		"numero_comuni": "121"
+	},
+	{
+		"id": "2",
+		"denominazione": "MILANO",
+		"capoluogo": "Milano",
+		"popolazione": "3208509",
+		"superficie": "1576",
+		"densita": "2036",
+		"numero_comuni": "134"
+	},
+	{
+		"id": "3",
+		"denominazione": "NAPOLI",
+		"capoluogo": "Napoli",
+		"popolazione": "3113898",
+		"superficie": "1179",
+		"densita": "2641",
+		"numero_comuni": "92"
+	},
+	{
+		"id": "4",
+		"denominazione": "TORINO",
+		"capoluogo": "Torino",
+		"popolazione": "2282197",
+		"superficie": "6827",
+		"densita": "334",
+		"numero_comuni": "316"
+	},
+	{
+		"id": "5",
+		"denominazione": "BARI",
+		"capoluogo": "Bari",
+		"popolazione": "1263820",
+		"superficie": "3863",
+		"densita": "327",
+		"numero_comuni": "41"
+	},
+	{
+		"id": "6",
+		"denominazione": "FIRENZE",
+		"capoluogo": "Firenze",
+		"popolazione": "1013348",
+		"superficie": "3514",
+		"densita": "288",
+		"numero_comuni": "42"
+	},
+	{
+		"id": "7",
+		"denominazione": "BOLOGNA",
+		"capoluogo": "Bologna",
+		"popolazione": "1005831",
+		"superficie": "3702",
+		"densita": "272",
+		"numero_comuni": "55"
+	},
+	{
+		"id": "8",
+		"denominazione": "GENOVA",
+		"capoluogo": "Genova",
+		"popolazione": "854099",
+		"superficie": "1834",
+		"densita": "466",
+		"numero_comuni": "67"
+	},
+	{
+		"id": "9",
+		"denominazione": "VENEZIA",
+		"capoluogo": "Venezia",
+		"popolazione": "855696",
+		"superficie": "2473",
+		"densita": "346",
+		"numero_comuni": "44"
+	},
+	{
+		"id": "10",
+		"denominazione": "REGGIO CALABRIA",
+		"capoluogo": "Reggio Calabria",
+		"popolazione": "555836",
+		"superficie": "3210",
+		"densita": "173",
+		"numero_comuni": "97"
+	},
+	{
+		"id": "11",
+		"denominazione": "CAGLIARI",
+		"capoluogo": "Cagliari",
+		"popolazione": "431657",
+		"superficie": "1248",
+		"densita": "345",
+		"numero_comuni": "17"
+	},
+	{
+		"id": "12",
+		"denominazione": "CATANIA",
+		"capoluogo": "Catania",
+		"popolazione": "1113303",
+		"superficie": "3574",
+		"densita": "312",
+		"numero_comuni": "58"
+	},
+	{
+		"id": "13",
+		"denominazione": "MESSINA",
+		"capoluogo": "Messina",
+		"popolazione": "636653",
+		"superficie": "3266",
+		"densita": "195",
+		"numero_comuni": "108"
+	},
+	{
+		"id": "14",
+		"denominazione": "PALERMO",
+		"capoluogo": "Palermo",
+		"popolazione": "1268217",
+		"superficie": "5009",
+		"densita": "253",
+		"numero_comuni": "82"
+	},
+	{
+		"id": "Total",
+		"denominazione": "",
+		"capoluogo": "",
+		"popolazione": "",
+		"superficie": "",
+		"densita": "",
+		"numero_comuni": "1274"
+	},
+	{
+		"id": ""
+	}
+]
