@@ -82,7 +82,7 @@ Si precisa che alcuni dati (esempio numero di abitanti, patroni o coordinate geo
 
 
 ## HISTORY VERSIONI
-- Ver 4.6 [11 novembre 2017]: Fornita tabella CAP in *omaggio*
+- Ver 4.6 [11 novembre 2017]: Fornita tabella CAP
 - Ver 4.5b [15 settembre 2017]: Database completo disponibile anche in formato JSON (.json)
 - Ver 4.5 [19 giugno 2017]: Inserito il riassetto dei codici istat Sardegna, corretti alcuni comuni, uniformati i nomi delle colonne
 - Ver 4.4 [6 giugno 2017]: Inserita la siglia automobilista della provincia del Sud Sardegna (SU, istituita provvisoriamente il 30 maggio 2017)
