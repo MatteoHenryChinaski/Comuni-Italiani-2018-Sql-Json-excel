@@ -1,11 +1,11 @@
-# Comuni-Italiani-2017-Sql-Json-Excel
+# Comuni Italiani 2017 | Sql Json Excel
 
 ## [STRUTTURA DEL DATABASE](https://github.com/MatteoHenryChinaski/Comuni-Italiani-2017-Sql-Json-excel/blob/master/create-database-comuni-italiani.sql)
 Tutte le tabelle sono corredate di identificativo univoco della riga in modo da poter eseguire query, view, stored procedures e richieste incrociate. 
 Nello specifico vengono fornite le colonne riportate qui sotto, per ogni tabella/foglio.  
 Si precisa che alcuni dati (esempio numero di abitanti, patroni o coordinate geografiche) potrebbero non essere presenti o non essere aggiornati.
 
-### Italian municipalities 2017
+## Italian municipalities 2017 [DATABASE STRUCTURE](https://github.com/MatteoHenryChinaski/Comuni-Italiani-2017-Sql-Json-excel/blob/master/create-database-comuni-italiani.sql)
 All tables are provided with a unique identifier of the row so that you can execute queries, view, stored procedures and cross-requests. Specifically, the columns below are available for each table / sheet. 
 Please note that some data may not be present or may not be updated.
 
