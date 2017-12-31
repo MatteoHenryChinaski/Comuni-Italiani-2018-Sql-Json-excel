@@ -5,7 +5,8 @@ Tutte le tabelle sono corredate di identificativo univoco della riga in modo da 
 Nello specifico vengono fornite le colonne riportate qui sotto, per ogni tabella/foglio.  
 Si precisa che alcuni dati (esempio numero di abitanti, patroni o coordinate geografiche) potrebbero non essere presenti o non essere aggiornati.
 
-All tables are provided with a unique identifier of the row so that you can execute queries, view, stored procedures and cross-requests. Specifically, the columns below are available for each table / sheet.
+### Italian municipalities 2017
+All tables are provided with a unique identifier of the row so that you can execute queries, view, stored procedures and cross-requests. Specifically, the columns below are available for each table / sheet. 
 Please note that some data may not be present or may not be updated.
 
 ## TABELLA DELLE REGIONI ITALIANE 
