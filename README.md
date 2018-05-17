@@ -1,4 +1,4 @@
-# Comuni Italiani 2017 | Sql Json Excel
+# Comuni Italiani 2018 | Sql Json Excel
 
 ### [STRUTTURA DEL DATABASE](https://github.com/MatteoHenryChinaski/Comuni-Italiani-2017-Sql-Json-excel/blob/master/create-database-comuni-italiani.sql)
 Tutte le tabelle sono corredate di identificativo univoco della riga in modo da poter eseguire query, view, stored procedures e richieste incrociate. 
@@ -81,6 +81,11 @@ Please note that some data may not be present or may not be updated.
 - cod. istat 2017 
 - comune 
 
+## ABELLA DELLE FRAZIONI ITALIANI (60.000 LOCALITÀ)
+- id progressivo
+- istat comune
+- frazione
+
 ## TABELLA DEI CAP ITALIANI 
 - cod. istat 
 - cap
@@ -92,6 +97,9 @@ Per utilizzarla nei vari formati i consigli sono i seguenti:
 - JSON: Eseguire l'integrazione tra i dati della tabella "italy_cap" e "italy_cities" attraverso codice lato client, attarverso un collegamento con il codice ISTAT
 
 ## HISTORY VERSIONI
+- Ver 5.2 [14 maggio 2018]: Aggiornati i comuni istituiti il 31° marzo e corrette alcune corrispondenze con i codici di avvimento postale. Aggiunta la tabella delle frazioni nella versione FULL.
+- Ver 5.1 [25 febbraio 2018]: Aggiunti i comuni istituiti il 1° e il 17 febbraio 2018, corretta tabella patroni
+- Ver 5.0 [17 gennaio 2018]: Aggiunti/modificati i comuni istituiti il 1° gennaio 2018
 - Ver 4.6 [11 novembre 2017]: Fornita tabella CAP
 - Ver 4.5b [15 settembre 2017]: Database completo disponibile anche in formato JSON (.json)
 - Ver 4.5 [19 giugno 2017]: Inserito il riassetto dei codici istat Sardegna, corretti alcuni comuni, uniformati i nomi delle colonne
@@ -114,3 +122,5 @@ Per utilizzarla nei vari formati i consigli sono i seguenti:
 - Ver 2.1: Aggiornate coordinate geografiche e corretta nomenclatura di alcuni comuni
 - Ver 2.0 [16 gennaio 2015]: Prima release con coordinate di geolocalizzazione dei comuni
 - Ver 1.0 [10 agosto 2014]: Prima release pubblica
+
+
