@@ -1,1 +1,6 @@
-[{"id_regione":1,"regione":"Abruzzo","superficie":10831.84,"num_residenti":1326513,"num_comuni":305,"num_provincie":4,"presidente":"Luciano D'Alfonso","cod_istat":13,"cod_fiscale":80003170661,"piva":null,"pec":"urp@pec.regione.abruzzo.it","sito":"www.regione.abruzzo.it","sede":"Regione Abruzzo / Palazzo Silone - Via Leonardo da Vinci 6, 67100 L'Aquila"}]
+[
+  {
+    "regione":"Abruzzo",
+    "num_residenti":1326513
+  }
+]
