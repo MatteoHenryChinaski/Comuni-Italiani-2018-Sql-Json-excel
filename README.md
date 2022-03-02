@@ -81,7 +81,7 @@ Please note that some data may not be present or may not be updated.
 - cod. istat 2017 
 - comune 
 
-## ABELLA DELLE FRAZIONI ITALIANI (60.000 LOCALITÀ)
+## TABELLA DELLE FRAZIONI ITALIANE (60.000 LOCALITÀ)
 - id progressivo
 - istat comune
 - frazione
